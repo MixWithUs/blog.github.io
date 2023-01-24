@@ -3,3 +3,6 @@
 *.iws
 *.iml
 *.ipr
+.hugo_build.lock
+public
+_gen

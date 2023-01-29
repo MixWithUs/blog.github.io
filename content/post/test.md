@@ -8,7 +8,7 @@ image = "artist.jpg"
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways 1. Emoji can be enabled in a Hugo project in a number of ways 2. Emoji can be enabled in a Hugo project in a number of ways 3. Emoji can be enabled in a Hugo project in a number of ways 4.
-
+ 
 <!--more-->
 
 The `[emojify](https://gohugo.io/functions/emojify/)` function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).

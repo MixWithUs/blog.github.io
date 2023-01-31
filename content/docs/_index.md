@@ -7,6 +7,8 @@ cascade:
   showAuthor: false
   showSummary: true
   invertPagination: true
+
+tags: ["about us", "config", "docs"]
 ---
 
 {{< lead >}}

@@ -6,3 +6,24 @@
 .hugo_build.lock
 public
 _gen
+resources/
+### Node ###
+# Dependency directories
+node_modules/
+
+### Hugo ###
+# Generated files by hugo
+**/public/
+**/resources/_gen/
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+### Congo ###
+# Lighthouse generated output
+.lighthouseci
+
+# Project specific files
+**/exampleSite

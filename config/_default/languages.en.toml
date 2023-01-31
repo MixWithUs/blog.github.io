@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
   # mainSections = ["section1", "section2"]
 
 [author]
-   name = "Yana & Zlata"
+   name = "Zlata & Yana"
    image = "img/author.jpg"
    headline = "Our beautiful blog"
    bio = "We are awesome"

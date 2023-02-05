@@ -11,9 +11,13 @@ invertPagination: false
 
 ---
 
-![ErlenMeyerFlasks](../erlenmeyer_flasks_violet.png)
+![ErlenMeyerFlasks](../3_erlenmeyer_flasks_with_violet.png)
+
 
 {{< lead >}}
+
+We are: _Zlata & Yana_
+
 _Read about [Zlata]({{< ref "about-us/zlata" >}})_
 
 _Read about [Yana]({{< ref "about-us/yana" >}})_

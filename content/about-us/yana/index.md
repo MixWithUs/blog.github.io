@@ -1,5 +1,5 @@
 ---
-title: "About Yana"
+title: "Über Yana"
 date: 2023-02-05
 draft: false
 description: "This is very personally"

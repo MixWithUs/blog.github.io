@@ -16,17 +16,17 @@
   weight = 10
 
 [[main]]
-  name = "Recipes"
+  name = "Rezepte"
   pageRef = "recipes"
   weight = 20
 
 [[main]]
-  name = "Case studies"
+  name = "Studien"
   pageRef = "case-studies"
   weight = 30
 
 [[main]]
-  name = "About us"
+  name = "Über uns"
   pageRef = "about-us"
   weight = 40
 
@@ -41,6 +41,6 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
- name = "About us"
- pageRef = "about us"
+ name = "Über uns"
+ pageRef = "about-us"
  weight = 10

@@ -1,14 +1,12 @@
 ---
 title: "Blog"
 description: "Our blog."
+author: TEST AUTHOR
 
 cascade:
-showEdit: false
-showSummary: true
----
-
-{{< lead >}}
-Congo brings your content to life. :heart_eyes:
-{{< /lead >}}
+    showDate: true
+    showAuthor: true
+    showSummary: true
+    invertPagination: false
 
 ---

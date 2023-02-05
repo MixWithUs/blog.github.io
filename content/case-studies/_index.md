@@ -1,13 +1,17 @@
 ---
-title: "Categories"
-description: "Lorem Ipsum Dolor Si Amet"
+title: "Case studies"
+description: "Our blog."
 date: "2019-03-09"
 lastmod: "2022-01-24"
-showDateUpdated: true
 cascade:
+    showDate: true
+    showAuthor: true
     showSummary: true
+    invertPagination: false
 
-tags: ["categories"]
+---
+
+tags: ["case studies"]
 ---
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 

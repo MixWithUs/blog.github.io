@@ -16,14 +16,19 @@
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Recipes"
+  pageRef = "recipes"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Case studies"
+  pageRef = "case-studies"
   weight = 30
+
+[[main]]
+  name = "About us"
+  pageRef = "about-us"
+  weight = 40
 
 [[main]]
   identifier = "search"
@@ -36,6 +41,6 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
- name = "Tags"
- pageRef = "tags"
+ name = "About us"
+ pageRef = "about us"
  weight = 10

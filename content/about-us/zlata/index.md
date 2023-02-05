@@ -1,5 +1,5 @@
 ---
-title: "About Zlata"
+title: "Über Zlata"
 date: "2023-02-05"
 draft: false
 description: "Description"

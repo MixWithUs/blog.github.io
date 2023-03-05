@@ -1,17 +1,18 @@
 ---
 title: "Über uns"
-description: "Our blog."
-author: Zlata & Yana
-
-cascade:
-showDate: true
-showAuthor: true
-showSummary: true
-invertPagination: false
+description: "About us."
+summary: "Wer wir sind."
 showDateUpdated: true
-xml: false
+date: 2023-03-05
+draft: false
+slug: "about-us"
+tags: ["about us"]
+cascade:
+  showEdit: false
+  showSummary: true
 ---
 
+--------------
 ![ErlenMeyerFlasks](../3_erlenmeyer_flasks_with_violet.png)
 
 {{< lead >}}

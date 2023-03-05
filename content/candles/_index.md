@@ -1,5 +1,5 @@
 ---
-title: "Rezepte"
+title: "Kerzen"
 description: "Our blog."
 
 cascade:
@@ -8,6 +8,6 @@ showAuthor: true
 showSummary: true
 invertPagination: false
 
-tags: ["recipes"]
+tags: ["candles"]
 ---
 

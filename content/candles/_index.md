@@ -1,5 +1,5 @@
 ---
-title: "Candles"
+title: "Kerzen"
 description: "Our blog."
 
 cascade:

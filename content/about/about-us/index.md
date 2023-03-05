@@ -5,16 +5,14 @@ summary: "Wer wir sind."
 showDateUpdated: true
 date: 2023-03-05
 draft: false
+slug: "about-us"
 tags: ["about us"]
-cascade:
-  showEdit: false
-  showSummary: true
+
 ---
 
---------------
 Hey du,
 
-Hast du Lust auf eine Geschichte? Denn wir haben heute eine mitgebracht. Vielleicht wunderst du dich, wie wir auf die
+Hast du Lust auf eine Geschichte? Denn wir haben heute eine mitgebracht. Vielleich t wunderst du dich, wie wir auf die
 Idee gekommen sind, unseren gemeinsamen Blog anzufangen. Wenn es dir heute nicht nach Geplapper ist, dann schau in
 unsere Rezepte und tob dich aus :wink:.
 
@@ -41,7 +39,7 @@ Leistungskurs scherzt, dass es ausgesprochen süßlich nach Zyankali duftet, hat
 selbst Kosmetik anzufertigen. Ich kann im Namen von uns beiden sagen, dass wir gespannt sind, wo diese Reise hinführt
 und wir freuen uns darauf, dir unsere Experimente vorzustellen.
 
-_Mehr zu [Zlata]({{< ref "about-us/zlata" >}})_
+_Mehr zu [Zlata]({{< ref "about/zlata" >}})_
 
 ## Yana
 
@@ -80,4 +78,4 @@ bin und freue mich darauf, in eine für mich ganz neue Welt einzutauchen! Ganz b
 diese Entdeckungsreise mitzunehmen!
 
 
-_Mehr zu [Yana]({{< ref "about-us/yana" >}})_
+_Mehr zu [Yana]({{< ref "about/yana" >}})_

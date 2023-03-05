@@ -32,7 +32,7 @@
 
 [[main]]
   name = "Über uns"
-  pageRef = "about-us"
+  pageRef = "about"
   weight = 50
 
 [[main]]
@@ -52,5 +52,5 @@
 
 [[footer]]
  name = "Über uns"
- pageRef = "about-us"
+ pageRef = "about"
  weight = 10

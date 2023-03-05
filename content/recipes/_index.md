@@ -1,5 +1,5 @@
 ---
-title: "Recipes"
+title: "Rezepte"
 description: "Our blog."
 
 cascade:

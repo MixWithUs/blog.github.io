@@ -8,7 +8,6 @@ slug: "about-yana"
 tags: ["about us"]
 ---
 
---------------
 #### Das Traditionelle
 
 Hallo lieber Leser, ich bin Yana und ich bin in Hamburg zuhause. Ich komme ursprünglich aus Usbekistan und seit meiner

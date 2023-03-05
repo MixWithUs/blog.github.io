@@ -4,11 +4,13 @@ date: 2023-03-05
 description: "About us."
 summary: "Wer wir sind."
 draft: false
-slug: "about-us"
+slug: "about"
 tags: ["about us"]
+
 cascade:
   showEdit: false
   showSummary: true
+  showHeadingAnchors: true
 ---
 
 --------------

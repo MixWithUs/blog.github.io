@@ -1,12 +1,15 @@
 ---
 title: "Impressum"
 description: "Impressum"
+date: 2023-03-05
 
 cascade:
 showDate: true
 showAuthor: true
 showSummary: true
-invertPagination: false
+invertPagination: true
+showTaxonomies: false
+showReadingTime: false
 
 tags: ["impressum"]
 ---
@@ -16,3 +19,4 @@ tags: ["impressum"]
 [Kerzen](https://instagram.com/mix_with_us_candles)
 
 
+--------------

@@ -12,13 +12,14 @@ tags: ["about us"]
 
 Hey du,
 
-Hast du Lust auf eine Geschichte? Denn wir haben heute eine mitgebracht. Vielleich t wunderst du dich, wie wir auf die
+Hast du Lust auf eine Geschichte? Denn wir haben heute eine mitgebracht. Vielleicht wunderst du dich, wie wir auf die
 Idee gekommen sind, unseren gemeinsamen Blog anzufangen. Wenn es dir heute nicht nach Geplapper ist, dann schau in
 unsere Rezepte und tob dich aus :wink:.
 
-## Zlata
-Ich experimentiere mit diversen Kosmetikformeln seit März 2022. Angefangen habe ich mit diversen
-Gesichtsreinigern, die inzwischen einen soliden Reifegrad erreicht haben. Ich fühle mich sehr komfortabel mit dem
+### Zlata
+
+Ich experimentiere mit diversen Kosmetikformeln seit März 2022. Angefangen habe ich mit verschiedenen Gesichtsreinigern,
+die inzwischen einen soliden Reifegrad erreicht haben. Ich fühle mich sehr komfortabel mit dem
 Gedanken, einige selbstgemachte Produkte zu verschenken. Sie werden sicher nicht in der Ecke eines Badschrankes einsam,
 oder in Gesellschaft anderer unbeliebten Produkte, verstauben. Sie sind genau das, was ich in meinem Kopf von Anfang an
 vorhatte, und haben sogar meine ursprüngliche Vorstellung in einigen Punkten übertroffen.
@@ -26,25 +27,24 @@ vorhatte, und haben sogar meine ursprüngliche Vorstellung in einigen Punkten ü
 Ich entdecke gerne neue Dinge und gehe weiter. Gesichtspflege-Routinen zu bilden, die Jahre überdauern würden, war nie
 meine Stärke, und das, obwohl mir bewusst ist, dass Regelmäßigkeit bei manch einer Gewohnheit das Erfolgsrezept ist. Aus
 diesem Grund bin ich auf der Suche nach simplen und natürlichen Gerüchen, in die ich mich beim ersten Schnüffeln
-verliebe. Denn was ist eine bessere Voraussetzung für eine lang anhaltende Gewohnheit als eine aufrichtige Liebe :heart:?
+verliebe. Denn was ist eine bessere Voraussetzung für eine lang anhaltende Gewohnheit als eine aufrichtige Liebe :heart:
+?
 
 Yana ist meine work besty. Von Anfang an haben wir die gleiche Sprache, buchstäblich wie sinnbildlich, gesprochen. Als
 woman in tech teile ich mit Yana viele gemeinsame Interessen wie Code, Katzen und Kosmetik. Yana malt leidenschaftlich
 gern und hat einen ausgeprägten Sinn für Ästhetik, außerdem ist sie eine sehr direkte Person, was sich in dieser
 ritualisierten Bürowelt wie ein Hauch frischer Luft anfühlt.
 
-Weihnachten letzten Jahres hat Yana von mir einen Pflaumenkernölreiniger bekommen, welcher einen ausgeprägten Marzipanduft
-besitzt - daher der Name Yanas Marzipan Make Up Remover. Und obwohl sie manchmal als ehemalige Schülerin in Chemie als
-Leistungskurs scherzt, dass es ausgesprochen süßlich nach Zyankali duftet, hat dieser Duft sie auf die Reise geschickt,
-selbst Kosmetik anzufertigen. Ich kann im Namen von uns beiden sagen, dass wir gespannt sind, wo diese Reise hinführt
+Weihnachten letzten Jahres hat Yana von mir einen Pflaumenkernölreiniger bekommen, welcher einen ausgeprägten
+Marzipanduft
+besitzt - daher der Name Yanas Marzipan Make Up Remover. Und obwohl sie manchmal als ehemalige Chemie-Leistungskurs
+Schülerin scherzt, dass es ausgesprochen süßlich nach Zyankali duftet, hat dieser Duft sie auf die Reise geschickt,
+selbst Kosmetik anzufertigen. Ich kann im Namen von uns beiden sagen, dass wir gespannt sind, wo dieser Weg hinführt
 und wir freuen uns darauf, dir unsere Experimente vorzustellen.
 
 _Mehr zu [Zlata]({{< ref "about/zlata" >}})_
 
-## Yana
-
-In der Welt der Kosmetikherstellung bin ich neu. Das bedeutet, dass ich noch sehr viele Fragen für mich und für euch
-aufklären möchte. …
+### Yana
 
 Zlata und ich haben uns bei der Arbeit kennengelernt. Ich habe selten solch einen neugierigen, intelligenten und
 ehrlichen Menschen getroffen, wie sie. Ich muss zugeben, dass ich anfangs ihr Hobby, Kosmetik zu Hause herzustellen,
@@ -59,23 +59,36 @@ Zlata bekommen habe, der ganz betörend nach Marzipan roch. Dieses Mittel hatte 
 Bodybutter erinnert hat. Das hat nicht nur mein Make Up entfernt, darüber hinaus hat es die Haut geschmeidig gemacht,
 ohne einen öligen Film zu hinterlassen. Das war für mich verblüffend. Hier habe ich zum ersten Mal gesehen, dass man
 selbst gute Kosmetik zu Hause herstellen kann.
-Bis dahin, stellte ich mir das Herstellen der Kosmetik als irgendwas sehr aufwendiges vor, mit chemischen Stoffe, die
+Bis dahin, stellte ich mir das Herstellen der Kosmetik als irgendwas sehr Aufwendiges vor, mit chemischen Stoffen, die
 man nur in Großmengen kaufen kann, Geräten, die Tausende von Euros kosten und Doktoren, die Jahrzehnte das Handwerk
 studiert und geübt haben. In der Industrie und Forschung wird es sicherlich genauso sein. Allerdings schließt es nicht
-aus, dass eine Privatperson ihre eigenen Kosmetikprodukte zu Hause herstellen kann.
+aus, dass man eigene Kosmetikprodukte zu Hause herstellen kann.
 
 Der letzte Schubser, um sich selbst an das Herstellen der Kosmetik ran zu machen, war für mich die Erkenntnis, dass
 meine gekaufte, hochwertige Kosmetik voll mit Mikroplastik und biologisch schwer abbaubaren Produkten ist. Eigentlich
 habe ich mich bei der Kosmetik an “guten” Namen und angenehme Konsistenz orientiert. Leider war das in meinem Fall keine
-Garantie für irgendwas.
+Garantie für gute Qualität und hohe Umweltstandards.
 
-Besonders spannend finde ich, dass man selbst über Inhaltsstoffe und Konsistenz des Produktes bestimmen kann, wenn man
+In der Welt der Kosmetikherstellung bin ich neu. Das bedeutet, dass ich noch sehr viele Fragen für mich und für euch
+aufklären möchte. Besonders spannend finde ich, dass man selbst über Inhaltsstoffe und Konsistenz des Produktes
+bestimmen kann, wenn man
 es persönlich kreiert. Ich bin ein Mensch, der es einfach hasst, einen öligen Film auf meiner Haut zu haben. Nicht
 fettende, haptisch leichte und angenehme Kosmetik ist die Richtung, in die ich mit meinen Experimenten gehen möchte.
+
+Was ich außer selbstkreirten Kosmetik ausprobieren möchte, sind auch weniger aufwendige Materien, wie Kerzenherstellung.
+Das Gebiet schätze ich als einfacher als Kosmetik ein, weil es ganz einfach weniger Inhaltsstoffe bei der Herstellung
+benötigt. Die Sicherheit bzw. die Schadstofffreiheit der Kerzen wird aus meiner Sicht unglaublich oft unterschätzt, weil die Kerzen so "normal"
+sind, so ging es zumindest mir. Wenn ich mich mit Kerzen beschäftigt habe, dann ging es mir lediglich um das Aussehen
+und
+den Geruch und das sind sicherlich super wichtige Aspekte, die Kerzen sollen ja schließlich auch für die Stimmung
+sorgen. Aber sind das wirklich
+die einzigen wichtigen Themen bei den Kerzen? Was ist eigentlich damit, aus welchem Rohstoff sie hergestellt sind? Und
+können
+mir die Kerzenfarbe und Aroma beim Verbrennen schaden? Das sind ja schließlich Stoffe, die ich einatme. Kerzen sind also noch ein
+Thema, das ich für mich eröffnet habe.
 
 Ich kann mich Zlata nur anschließen, wenn ich sage, dass ich unglaublich gespannt auf diese neue Wende in meinem Leben
 bin und freue mich darauf, in eine für mich ganz neue Welt einzutauchen! Ganz besonders aufregend ist für mich, dich auf
 diese Entdeckungsreise mitzunehmen!
-
 
 _Mehr zu [Yana]({{< ref "about/yana" >}})_

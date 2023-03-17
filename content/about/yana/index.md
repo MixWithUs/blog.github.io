@@ -1,6 +1,6 @@
 ---
 title: "Über Yana"
-date: 2023-02-05
+date: 2023-02-06
 draft: false
 description: "This is very personally"
 summary: "This is very personally"
@@ -8,7 +8,9 @@ slug: "about-yana"
 tags: ["about us"]
 ---
 
-#### Das Traditionelle
+#### Willkommen in die bessere Welt (WIP Titel)
+
+### Das Traditionelle
 
 Hallo lieber Leser, ich bin Yana und ich bin in Hamburg zuhause. Ich komme ursprünglich aus Usbekistan und seit meiner
 Teenagerzeit bin ich hier.
@@ -18,7 +20,7 @@ und Chemie habe ich nie verloren.
 In meiner Freizeit mag ich kochen, essen, malen, gärtnern, schlafen… All das bereitet mir Freunde und wird am liebsten
 in der Reihenfolge durchgeführt.
 
-#### Ich dachte ganz lange,
+### Ich dachte ganz lange,
 
 dass Kosmetik eine Sache der großen Industrien ist und sie haben das im Griff. Ich bin immer mehr Richtung teure
 Kosmetik abgedriftet und habe es mir zu bequem gemacht, indem ich mich auf Preise und bekannte Namen verlassen habe.
@@ -33,10 +35,11 @@ davon berichtet, dass diese Creme unter anderem auch einen biologisch schwer abb
 [C10-30 Alkyl Acrylate Crosspolymer](https://www.greenpeace.de/biodiversitaet/meere/meeresschutz/gefahr-kleingedruckten)
 beinhaltet. Tja, das war eher eine ungemütliche Nachricht für mich. In dem Moment haben Enttäuschung, Wut und Neugierde
 in mir koexistiert, weil ich das Gefühl bekommen habe, dass ich mich auf keine Indizien verlassen konnte, die ich für
-sicher hielt und von “guten” Kosmetik eine ganz subjektive Vorstellung habe, die sich nicht unbedingt mit der angebotenen
+sicher hielt und von “guten” Kosmetik eine ganz subjektive Vorstellung habe, die sich nicht unbedingt mit der
+angebotenen
 Realität deckt.
 
-#### Es gab den “Marzipan” zu Weihnachten,
+### Es gab den “Marzipan” zu Weihnachten,
 
 den Zlata mir geschenkt hat. Das war das erste Mal, dass sich eine Person in meinem Freundeskreis selbständig, ernsthaft
 und vielseitig mit der Herstellung der Kosmetik beschäftigt hat. Zlata hat für mich einen Make Up Removal kreiert, der
@@ -56,9 +59,23 @@ persönliche Pflegeprodukte herstelle. Ich denke, dass mein naturwissenschaftlic
 wobei ich das bis vor kurzem wirklich wenig eingesetzt habe, um über Inhaltsstoffe und deren Wirkung in den Cremes
 nachzudenken.
 
-#### Nun bin ich neugierig und habe Fragen über Fragen…
+### Warum nur Kosmetik?
 
-Was ist eigentlich Naturkosmetik? 
+Tatsache... Warum eigentlich? Es gibt so viele Sachen, die das Leben schöner machen können, dazu zählt nicht nur sichere
+Kosmetik, sondern auch "einfachen" Gegenstände, wie Kerzen. Es gibt eine ganz große Menge von Kerzen auf dem Markt, aber
+hast
+du dir schon mal Gedanken darüber gemacht, wie sicher sie sind? Aus welchem Rohstoffen sie hergestellt werden, womit sie
+gefärbt oder aromatisiert werden und ob das alles deinen Ansprüchen an Schadstofffreiheit entspricht? Falls ja, dann
+bist
+du auf jeden Fall viel weiter als ganz viele deiner Mitmenschen. Und ein Spoiler hier -
+ganz viele Kerzen sind nicht schadstofffrei. Sie sehen schön aus, riechen gut, werden für unterschiedlich hohe Preise
+verkauft
+und trotzdem grenzt die Zusammensetzung mancher Kerzen fast schon an Körperverletzung. Natürlich möchten wir auf keine
+schöne Kerzen verzichten, das ist der Grund, warum wir uns auch mit dem Thema Kerzen in unserem Blog befassen werden.
+
+### Nun bin ich neugierig und habe Fragen über Fragen…
+
+Was ist eigentlich Naturkosmetik?
 
 Ist das das Beste, was es gibt? Ist es das, was ich erwarte?
 
@@ -69,5 +86,7 @@ Wie kann ich manche Produkte günstig und verantwortlich zu Hause herstellen? Is
 Was kann ich von bekannten Formeln lernen?
 
 Diese und noch viele andere Fragen möchte ich beantworten und freue mich auf ganz viel neues Wissen!
-Komm mit mir auf diese Reise und lasst uns zusammen diese große Welt der Pflege-Kosmetik entdecken.
+Komm mit mir auf diese Reise und lasst uns zusammen diese große Welt der Pflege-Kosmetik und Kerzengießen entdecken. Ich
+freue mich auf dich und deine Kommentare auf unseren [Instagram-Seite für Kosmetik](https://instagram.com/mix_with_us)
+und  [Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).
 

@@ -12,7 +12,7 @@ tags: ["about us"]
 
 ### Das Traditionelle
 
-Hallo lieber Leser, ich bin Yana und ich bin in Hamburg zuhause. Ich komme ursprünglich aus Usbekistan und seit meiner
+Hallo lieber Mensch, ich bin Yana und ich bin in Hamburg zuhause. Ich komme ursprünglich aus Usbekistan und seit meiner
 Teenagerzeit bin ich hier.
 
 Ich habe Bio-Informatik studiert und arbeite seit dem als Software-Entwicklerin, aber meine Leidenschaft für Biologie

@@ -8,7 +8,7 @@ slug: "about-yana"
 tags: ["about us"]
 ---
 
-#### Willkommen in die bessere Welt (WIP Titel)
+## Willkommen in die bessere Welt (WIP Titel)
 
 ### Das Traditionelle
 

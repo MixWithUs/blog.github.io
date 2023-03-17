@@ -20,8 +20,6 @@ cascade:
 
 Hey du! Schön, dass du hier bist! Hier kannst du mehr über uns lesen.
 
-Yanas Marzipan Make Up Remover -- 2 Versionen (Link)
-
 {{< /lead >}}
 
 ---

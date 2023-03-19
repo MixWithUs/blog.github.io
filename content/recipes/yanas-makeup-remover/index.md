@@ -1,5 +1,5 @@
 ---
-title: "Yanas Marzipan Makeup Remover"
+title: "Yanas Marzipan Make Up Remover"
 date: 2023-03-17
 draft: false
 description: "Der Marzipan Make Up Remover"
@@ -19,6 +19,8 @@ Mixer:innen. Im Beitrag findest du Informationen, die dich bei der Herstellung b
 * Kurze Zutatenportrais
 * Inventarliste und Herstellungsanweisungen
 * Seitennotiz zur Konservierung
+
+![makeu-removal](removal_small.jpg)
 
 ### Yanas Marzipan Makeup Remover
 
@@ -138,6 +140,8 @@ wieder weggerührt werden können. Hier ist der Zeitfaktor kritisch: Die Stoffe 
 eingerührt und nachher in den Tiegel abgefüllt werden. Das Produkt braucht einige Stunden, bis es seine Endkonsistenz
 erreicht hat.
 
+![inci](inci_small.png)
+
 ### Warum sind Konservierungsmittel enthalten?
 Der Reiniger setzt auf ein Konservierungssystem aus Pentylene Glycol und Magnolia Extrakt, welches oft in
 Naturkosmetikprodukten eingesetzt wird. Beide Reiniger sind zwar ölbasiert, sie werden aber in Verbindung mit Wasser
@@ -145,6 +149,7 @@ benutzt. Kleine Tröpfchen von Wasser im Produkt (Durch den Kontakt mit feuchten
 dass das Produkt ein hervorragendes Milieu für Schimmel, Pilze und Bakterien bildet. Da wir keine neuen Lebensformen
 züchten wollen, sind wir darauf angewiesen, im Rahmen dieser Formel ein sicheres Konservierungssystem einzusetzen,
 welches uns vor Enttäuschungen im Form eines verdorbenen Produktes und unerwünschten Hautreaktionen bewahrt.
+
 
 ### Nachwort
 Für weitere Hintergrundinformationen kannst du dir unsere Rohstoffportrait anschauen. Viel Spaß beim Nachmachen!

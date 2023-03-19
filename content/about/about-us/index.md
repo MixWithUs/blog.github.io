@@ -9,7 +9,6 @@ slug: "about-us"
 tags: ["about us"]
 
 ---
-
 Hey du,
 
 Hast du Lust auf eine Geschichte? Denn wir haben heute eine mitgebracht. Vielleicht wunderst du dich, wie wir auf die
@@ -75,16 +74,16 @@ bestimmen kann, wenn man
 es persönlich kreiert. Ich bin ein Mensch, der es einfach hasst, einen öligen Film auf meiner Haut zu haben. Nicht
 fettende, haptisch leichte und angenehme Kosmetik ist die Richtung, in die ich mit meinen Experimenten gehen möchte.
 
-Was ich außer selbstkreirten Kosmetik ausprobieren möchte, sind auch weniger aufwendige Materien, wie Kerzenherstellung.
-Das Gebiet schätze ich als einfacher als Kosmetik ein, weil es ganz einfach weniger Inhaltsstoffe bei der Herstellung
-benötigt. Die Sicherheit bzw. die Schadstofffreiheit der Kerzen wird aus meiner Sicht unglaublich oft unterschätzt, weil die Kerzen so "normal"
+Was ich außer selbstkreierten Kosmetik ausprobieren möchte, sind auch weniger aufwändige Thematiken, wie Kerzenherstellung.
+Das Gebiet schätze ich simpler als Kosmetik ein, weil es weniger Inhaltsstoffe bei der Herstellung
+benötigt. Die Sicherheit bzw. die Schadstofffreiheit der Kerzen wird aus meiner Sicht unglaublich oft unterschätzt, weil die Kerzen so verbreitet
 sind, so ging es zumindest mir. Wenn ich mich mit Kerzen beschäftigt habe, dann ging es mir lediglich um das Aussehen
 und
 den Geruch und das sind sicherlich super wichtige Aspekte, die Kerzen sollen ja schließlich auch für die Stimmung
 sorgen. Aber sind das wirklich
 die einzigen wichtigen Themen bei den Kerzen? Was ist eigentlich damit, aus welchem Rohstoff sie hergestellt sind? Und
 können
-mir die Kerzenfarbe und Aroma beim Verbrennen schaden? Das sind ja schließlich Stoffe, die ich einatme. Kerzen sind also noch ein
+mir die Kerzenfarben und Duftstoffe beim Verbrennen schaden? Das sind ja schließlich Stoffe, die ich einatme. Kerzen sind also noch ein
 Thema, das ich für mich eröffnet habe.
 
 Ich kann mich Zlata nur anschließen, wenn ich sage, dass ich unglaublich gespannt auf diese neue Wende in meinem Leben

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to MixWithUs! :tada:"
+title: "Welcome to our Blog!"
 cascade:
   showDate: true
   showAuthor: true

@@ -63,8 +63,7 @@ nachzudenken.
 
 Tatsache... Warum eigentlich? Es gibt so viele Sachen, die das Leben schöner machen können, dazu zählt nicht nur sichere
 Kosmetik, sondern auch "einfachen" Gegenstände, wie Kerzen. Es gibt eine ganz große Menge von Kerzen auf dem Markt, aber
-hast
-du dir schon mal Gedanken darüber gemacht, wie sicher sie sind? Aus welchem Rohstoffen sie hergestellt werden, womit sie
+hast du dir schon mal Gedanken darüber gemacht, wie unbedenklich oder bedenklich sie sind? Aus welchen Rohstoffen sie hergestellt werden, womit sie
 gefärbt oder aromatisiert werden und ob das alles deinen Ansprüchen an Schadstofffreiheit entspricht? Falls ja, dann
 bist
 du auf jeden Fall viel weiter als ganz viele deiner Mitmenschen. Und ein Spoiler hier -
@@ -89,4 +88,3 @@ Diese und noch viele andere Fragen möchte ich beantworten und freue mich auf ga
 Komm mit mir auf diese Reise und lasst uns zusammen diese große Welt der Pflege-Kosmetik und Kerzengießen entdecken. Ich
 freue mich auf dich und deine Kommentare auf unseren [Instagram-Seite für Kosmetik](https://instagram.com/mix_with_us)
 und  [Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).
-

@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Rezepte"
-  pageRef = "recipes"
+  pageRef = "cosmetics"
   weight = 20
 
 [[main]]

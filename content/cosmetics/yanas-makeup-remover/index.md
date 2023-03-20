@@ -4,8 +4,8 @@ date: 2023-03-17
 draft: false
 description: "Der Marzipan Make Up Remover"
 summary: "Der Marzipan Make Up Remover"
-slug: "recipes"
-tags: ["recipes"]
+slug: "cosmetics"
+tags: ["cosmetics"]
 ---
 
 Hey du,
@@ -113,8 +113,10 @@ _Alpha-Bisabolol_ ist ein Bestandteil der Kamille mit entzündungshemmender und 
 _Magnolienextrakt_ wird aus der Rinde des Magnolienbaums gewonnen. Es wird dafür verwendet Schimmel- und Hefenbildung zu
 verhindern.
 
-**Infobox**: Kannst du eine Zutat nicht bei dem Zutatenanbieter deiner Wahl finden, so kann daran liegen, dass er sie unter
+{{< alert >}}
+Kannst du eine Zutat nicht bei dem Zutatenanbieter deiner Wahl finden, so kann daran liegen, dass er sie unter
 anderem Handelsnamen führt. Es kann sich lohnen, in die Suche die entsprechenden INCIs als Suchbegriffe einzugeben.
+{{< /alert >}}
 
 ### Zubereitung
 Beide Formeln lassen sich auf gleiche Art und Weise zubereiten. Dafür brauchst du:

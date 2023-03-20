@@ -1,10 +1,10 @@
 ---
-title: "Rezepte"
+title: "Kosmetik"
 date: 2023-03-17
 description: "Our blog."
 draft: false
-slug: "recipes"
-tags: ["recipes"]
+slug: "cosmetics"
+tags: ["cosmetics"]
 
 cascade:
 showDate: true

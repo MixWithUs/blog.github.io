@@ -105,6 +105,12 @@ Es gibt RAL-anerkannte Lieferanten, die [hier](https://ral-c.com/farben-und-lack
 
 ### Das RAL-Gütezeichen
 
+<div class="image-container-50">
+
+![ral](ral.png)
+
+</div>
+
 Ich habe bereits ein paar Mal auf den [RAL-Gütezeichen](https://ral-c.com/ral-guetezeichen/) hingewiesen, aber was ist
 das eigentlich? Hierbei
 handelt es sich um ein wichtiges Zertifikat in Deutschland, welches sicherstellt, dass die gekennzeichnete
@@ -117,7 +123,6 @@ also wenn man einmal ein "verstecktes" Bild entdeckt hat, sieht man das Bild mit
 welche versteckte Gefahren in Kerzen
 verborgen
 sein können, würde ich niemals eine Kerze ohne den RAL-Siegel kaufen, oder eine alte Kerze anzünden.
-![ral](ral.png)
 
 ### Warum habe ich mich weiterhin mit dem Thema beschäftigt?
 

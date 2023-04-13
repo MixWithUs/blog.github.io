@@ -11,7 +11,7 @@ tags: ["cosmetics"]
 Hey du,
 
 Sicherlich bist du schon darauf gespannt, mitzumachen und deinen ersten Versuch in Kosmetikherstellung mit uns zu
-starten. Was hältst du von einem natürlichen veganen Make Up Remover mit einem leckeren Marzipangeruch? Diese
+starten. Was hältst du von einem natürlichen, veganen Make Up Remover mit einem leckeren Marzipangeruch? Diese
 wasserfreie Formel mit einer überschaubaren Zutatenliste eignet sich sowohl für einsteigende als auch für erfahrene
 Mixer:innen. Im Beitrag findest du Informationen, die dich bei der Herstellung begleiten werden:
 
@@ -24,13 +24,13 @@ Mixer:innen. Im Beitrag findest du Informationen, die dich bei der Herstellung b
 
 ### Yanas Marzipan Makeup Remover
 
-Die erste Formel ist für jemanden, der selten wasserfeste Make-Up Produkte benutzt und eher wenig augenbetontes Make-Up
+Die erste Formel ist für jemanden, der selten wasserfeste Make-Up Produkte benutzt und eher wenig augenbetonendes Make-Up
 im Alltag trägt. Etwas Concealer und Lippenstift und eine ordentliche Portion Sonnenschutzcreme ist aber hiermit
 abgedeckt. Diese Formel ist auf diese speziellen Bedürfnisse abgestimmt und kann ihre pflegende Wirkung optimal
 entfalten.
 
 An der ersten Variante schätze ich ihre Vielseitigkeit. Man kann diesen Marzipanreiniger wie alle herkömmlichen
-Ölreiniger benutzen. Das heißt, morgens oder abends auf ein leicht angefeuchtetes Gesicht auftragen, einmassieren und
+Ölreiniger benutzen. Das heißt: Morgens oder abends auf ein leicht angefeuchtetes Gesicht auftragen, einmassieren und
 abwaschen. Meine Lieblingsanwendung für dieses Produkt ist jedoch eine Abendmaske. Man trägt eine erbsengroße Portion
 des Marzipanreinigers auf das Gesicht und wischt es später mit einem Handtuch (oder Kosmetiktuch) ab. Der Reiniger
 hinterlässt ein langanhaltendes seidiges gepflegtes Gefühl auf der Haut.
@@ -42,10 +42,10 @@ hinterlässt ein langanhaltendes seidiges gepflegtes Gefühl auf der Haut.
 | Cetearyl Alcohol        | 20%      | Konsistenzgeber                                          |
 | Imwitor® 375            | 3%       | Emulgator                                                |
 | **Kalt-Phase (> 40°C)** |          |                                                          |
-| Pentylene Glycol        | 5%       | Konservierenung, feuchtigkeitsspendender Stoff           |
+| Pentylene Glycol        | 5%       | Konservierung, feuchtigkeitsspendender Stoff           |
 | Vitamin E               | 1%       | Antioxidativer Wirkstoff, verhindert Ranzigkeit von Ölen |
 | Alpha Bisabolol         | 0.5%     | Antientzündlicher Wirkstoff                              |
-| Magnolia Extrakt        | 0.2%     | Konservierenung, feuchtigkeitsspendender Stoff           |
+| Magnolia Extrakt        | 0.2%     | Konservierung, feuchtigkeitsspendender Stoff           |
 
 ### Marzipan der Zweite
 
@@ -68,44 +68,44 @@ unserem Pflegekonzept erreichen versuchen.
 | Veg. Glycerin            | 6%       | Reinigung, Feuchtigkeitsspendend                         |
 | Dermofeel® G 10 LW       | 4%       | Reinigung, Tensid                                        |
 | **Kalt-Phase (> 40°C)**  |          |                                                          |
-| Pentylene Glycol         | 5%       | Konservierenung, feuchtigkeitsspendender Stoff           |
+| Pentylene Glycol         | 5%       | Konservierung, feuchtigkeitsspendender Stoff           |
 | Vitamin E                | 1%       | Antioxidativer Wirkstoff, verhindert Ranzigkeit von Ölen |
 | Alpha Bisabolol          | 0.5%     | Antientzündlicher Wirkstoff                              |
-| Magnolia Extrakt         | 0.2%     | Konservierenung, feuchtigkeitsspendender Stoff           |
+| Magnolia Extrakt         | 0.2%     | Konservierung, feuchtigkeitsspendender Stoff           |
 
 ### Zutaten
 
-_Pflaumenkernöl_ wird aus den Pflaumenkernen gewonnen. Unter dem Aspekt der Nachhaltigkeit kann das Öl einige
+_Pflaumenkernöl_ wird aus Pflaumenkernen gewonnen. Unter dem Aspekt der Nachhaltigkeit kann das Öl einige
 Sympathiepunkte gewinnen. Es wird oft als Nebenprodukt der Lebensmittelindustrie hergestellt und ermöglicht somit eine
-sinnvolle Resteverwertung. Dominierender Anteil an Ölsäure sorgt dafür, dass das Pfraumenkernöl tief in die obere
+sinnvolle Resteverwertung. Ein dominierender Anteil an Ölsäure sorgt dafür, dass das Pfraumenkernöl tief in die obere
 Hautschicht durchdringen kann. Außerdem ist es reich an Vitamin E und Phytosterolen. Was
-das Öl so außergewöhnlich macht, ist dieser betörende Marzipanduft mit leichter Röstnote, der bei einer schonender
-Extraktion besonders zur Geltung kommt. Der Geruch macht ernsthaft süchtig, was eine wunderbare Voraussetzung für eine
+das Öl so außergewöhnlich macht, ist der betörende Marzipanduft mit leichter Röstnote, der bei einer schonenden
+Extraktion besonders zur Geltung kommt. Der Geruch macht geradezu süchtig, was eine wunderbare Voraussetzung für eine
 langfristige Routine ist.
 
 _Cetearylalkohol_ ist ein Fettalkohol, der häufig als Konsistenzgeber mit angenehmer Haptik verwendet wird. Er trägt dazu
 bei, die Haut weich und geschmeidig zu machen, und hilft außerdem, die Formulierung zu verdicken.
 
-_Imwitor® 375_ (INCI: Glyceryl Citrate, Linoleate, Oleate)  ist ein palmölfreier natürlicher Emulgator, bei Wasserzugabe
-macht aus Öl eine Emulsion und sorgt dafür, dass das Öl von Gesicht abgewaschen werden kann und auf anderen Oberflächen
-z.B. Wachbecken nicht haften.
+_Imwitor® 375_ (INCI: Glyceryl Citrate, Linoleate, Oleate)  ist ein palmölfreier natürlicher Emulgator. Bei Wasserzugabe
+macht er aus Öl eine Emulsion und sorgt dafür, dass das Öl vom Gesicht abgewaschen werden kann und auf anderen Oberflächen, wie
+z.B. dem Wachbecken, nicht haftet.
 
-_Vitamin E_ ist ein antioxidativer Wirkstoff, welcher dazu beiträgt, die Haut vor freien Radikalen und Umweltschäden zu
-schützen, es kann seine Wirkung bereits bei 1% entfalten. Vitamin E wird außerdem oft unter 0.5% den ölbasierten Formeln
+_Vitamin E_ ist ein antioxidativer Wirkstoff, welcher dazu beiträgt die Haut vor freien Radikalen und Umweltschäden zu
+schützen. Es kann seine Wirkung bereits ab einem Anteil von 1% entfalten. Vitamin E wird außerdem oft mit unter 0.5% den ölbasierten Formeln
 beigemischt um ihre Stabilität gegenüber Oxidation zu fördern.
 
-Pflanzliches _Glycerin_ ist dafür bekannt, Feuchtigkeit zu binden. In dieser Formel kann Glycerin durch diese Eigenschaft
+Pflanzliches _Glycerin_ ist dafür bekannt Feuchtigkeit zu binden. In dieser Formel kann Glycerin durch diese Eigenschaft
 die Reinigung unterstützen ohne die Haut dabei unnötig auszutrocknen.
 
 _Pentylene Glycol_ ist ein zweiwertiger Alkohol mit feuchtigkeitsspendenden Eigenschaften. In dieser Formel setze ich
-Pentylenglykol als Konservierstoff mit Doppelfunktion ein: Es schützt das Produkt vor Vermehrung der Mikroorganismen und
-Hefen und spendet der Haut eine Zusatzportion an Feuchtichkeit. Beim Kauf von Pentylene Glycol bitte auf den Zusatz
+Pentylenglykol als Konservierstoff mit Doppelfunktion ein: Es schützt das Produkt vor Vermehrung von Mikroorganismen und
+Hefen und spendet der Haut eine Zusatzportion an Feuchtigkeit. Beim Kauf von Pentylene Glycol bitte auf den Zusatz
 “ECO” oder “Natural” achten, wenn du darauf Wert legst, deine Zutaten aus pflanzlicher Quellen zu beziehen.
 
 _Dermofeel® G 10 LW_ (INCI: Polyglyceryl-10 Laurate, Aqua, Citric acid) ist ein natürliches Lösungsmittel und Tensid mit
 hoher Hautverträglichkeit. Es sorgt für eine schaumfreie reizarme Reininung. An diese Stelle ist noch eine Ergänzung
-notwendig: Polyglyceryl-10 Laurate wird z.T. aus Palmöl gewonnen, der Zusatz “MB” (mass balance auf Deutsch
-Massenbilanz-Handelsmodel) unter dem du es oft im Handel findest steht dafür, dass in der Kette zu einem gewissen
+notwendig: Polyglyceryl-10 Laurate wird z.T. aus Palmöl gewonnen, der Zusatz “MB” (_mass balance_, auf Deutsch
+Massenbilanz-Handelsmodel), unter dem du es oft im Handel findest, steht dafür, dass in der Kette zu einem gewissen
 nachweisbaren Anteil (jedoch nicht vollständig) auf zertifizierte Rohstoffe zurückgegriffen wird.
 
 _Alpha-Bisabolol_ ist ein Bestandteil der Kamille mit entzündungshemmender und reizlindernder Wirkung.
@@ -122,20 +122,20 @@ anderem Handelsnamen führt. Es kann sich lohnen, in die Suche die entsprechende
 Beide Formeln lassen sich auf gleiche Art und Weise zubereiten. Dafür brauchst du:
 * Zwei Gefäße - mindestens eines davon muss hitzefest sein.
 * Einige Spatel/Löffelchen zum Abwiegen und Rühren. Je mehr du hast, umso weniger bist du mit dem Reinigen bei der
-Zubereitung beschäftigt.
+  Zubereitung beschäftigt.
 * Eine Waage mit einer Genauigkeit von 0,01 Gramm.
 * Ein Behältnis, in dem du dein Endprodukt aufzubewahren willst. Meine Empfehlung wäre ein Glastiegel für Cremes zu
-benutzen.
+  benutzen.
 * Desinfektionsmittel.
 * (Optional) Warmwasserbad, Kältebad
 
 Nachdem du deinen Arbeitsbereich und deine Gefäße, Instrumente, sowie den Tiegel für das Endprodukt gereinigt und mit
-Alkohol desinfiziert hast, kann es losgehen. Die Zutaten aus der Hitze-Phase werden in das hitzefeste Gefäß eingewogen.
+Alkohol desinfiziert hast, kann es losgehen. Die Zutaten aus der Hitze-Phase werden in ein hitzefestes Gefäß eingewogen.
 Das zweite Gefäß benutzt du, um die Kalt-Phase abzuwiegen. Die Zutaten des hitzefesten Bechers werden auf dem Herd (z.B.
 in einem Wasserbad) bei 50-55°C eingeschmolzen. Bitte achte auf die Temperaturobergrenze für Pflaumenkernöl, welche bei
 65°C liegt. Nachdem die Zutaten homogen aufgeschmolzen sind, nehme das Gefäß vom Herd und fange an zu rühren. Ziel ist
-es, die Mischung auf ca. 35-40°C abkühlen zu lassen. Ich empfehle zum Kaltbad zu greifen, um die Arbeitszeit zu
-verkürzen. Während du wartest bis die Öle abkühlen, kannst du die Kühlphase vorbereiten. Dabei werden alle Inhaltsstoffe
+es, die Mischung auf ca. 35-40°C abzukühlen. Ich empfehle zum Kaltbad zu greifen, um die Arbeitszeit zu
+verkürzen. Während du wartest, bis die Öle abkühlen, kannst du die Kühlphase vorbereiten. Dabei werden alle Inhaltsstoffe
 der Kühlphase miteinander zu einer homogenen Masse vermischt. Bei 35-40°C kann die Kühlphase zu der abgekühlten
 Hitzephase hinzugegeben werden. Optisch wird die Mischung trüb und es fangen an sich einzelne Klümpchen zu bilden, die
 wieder weggerührt werden können. Hier ist der Zeitfaktor kritisch: Die Stoffe aus der Kaltphase müssen schnell
@@ -155,3 +155,5 @@ welches uns vor Enttäuschungen im Form eines verdorbenen Produktes und unerwün
 
 ### Nachwort
 Für weitere Hintergrundinformationen kannst du dir unsere Rohstoffportrait anschauen. Viel Spaß beim Nachmachen!
+
+

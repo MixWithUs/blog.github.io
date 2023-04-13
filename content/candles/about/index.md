@@ -19,7 +19,7 @@ umweltfreundliche Alternative zur Paraffin sein, allerdings ist es nicht vegan. 
 es bei einer Kerze ankommt. Vielfältige Behälter, tolle Farben und exotische Aromen sind inzwischen bei den Kerzen nicht
 mehr wegzudenken.
 
-Bei meiner Recherche hat sich eine ganz neue Welt der Gefahren(?) offenbart. Bei einem Brennvorgang können sehr viele
+Bei meiner Recherche hat sich eine ganz neue Welt der Gefahren offenbart. Bei einem Brennvorgang können sehr viele
 giftige und unerwünschte chemische Produkte entstehen, die auf ihre unsichtbare Art bei uns Allergien verursachen oder
 sogar kanzerogen wirken können.
 Wie ich herausgefunden habe, ist eine gute Orientierung bei den Kerzen der

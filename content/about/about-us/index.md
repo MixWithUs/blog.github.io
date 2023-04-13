@@ -77,9 +77,9 @@ fettende, haptisch leichte und angenehme Kosmetik ist die Richtung, in die ich m
 Was ich außer selbstkreierten Kosmetik ausprobieren möchte, sind auch weniger aufwändige Thematiken, wie Kerzenherstellung.
 Das Gebiet schätze ich simpler als Kosmetik ein, weil es weniger Inhaltsstoffe bei der Herstellung
 benötigt. Die Sicherheit bzw. die Schadstofffreiheit der Kerzen wird aus meiner Sicht unglaublich oft unterschätzt, weil die Kerzen so verbreitet
-sind, so ging es zumindest mir. Wenn ich mich mit Kerzen beschäftigt habe, dann ging es mir lediglich um das Aussehen
+sind. Wenn ich mich mit Kerzen beschäftigt habe, dann ging es mir lediglich um das Aussehen
 und
-den Geruch und das sind sicherlich super wichtige Aspekte, die Kerzen sollen ja schließlich auch für die Stimmung
+den Geruch. Das sind sicherlich super wichtige Aspekte, die Kerzen sollen ja schließlich auch für die Stimmung
 sorgen. Aber sind das wirklich
 die einzigen wichtigen Themen bei den Kerzen? Was ist eigentlich damit, aus welchem Rohstoff sie hergestellt sind? Und
 können

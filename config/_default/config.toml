@@ -1,7 +1,7 @@
 theme = "congo"
 
 baseURL = "https://mixwithus.de"
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 enableRobotsTXT = true
 paginate = 10

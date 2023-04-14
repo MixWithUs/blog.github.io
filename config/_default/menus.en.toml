@@ -10,25 +10,35 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Blog"
-  pageRef = "blog"
-  weight = 10
+#[[main]]
+#  name = "Blog"
+#  pageRef = "blog"
+#  weight = 10
 
 [[main]]
   name = "Rezepte"
-  pageRef = "recipes"
+  pageRef = "cosmetics"
   weight = 20
 
 [[main]]
-  name = "Studien"
-  pageRef = "case-studies"
+  name = "Kerzen"
+  pageRef = "candles"
   weight = 30
+
+#[[main]]
+#  name = "Studien"
+#  pageRef = "case-studies"
+#  weight = 40
 
 [[main]]
   name = "Über uns"
-  pageRef = "about-us"
-  weight = 40
+  pageRef = "about"
+  weight = 50
+
+[[main]]
+  name = "Impressum"
+  pageRef = "impressum"
+  weight = 60
 
 [[main]]
   identifier = "search"
@@ -42,5 +52,5 @@
 
 [[footer]]
  name = "Über uns"
- pageRef = "about-us"
+ pageRef = "about"
  weight = 10

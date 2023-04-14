@@ -19,7 +19,7 @@ umweltfreundliche Alternative zur Paraffin sein, allerdings ist es nicht vegan. 
 es bei einer Kerze ankommt. Vielfältige Behälter, tolle Farben und exotische Aromen sind inzwischen bei den Kerzen nicht
 mehr wegzudenken.
 
-Bei meiner Recherche hat sich eine ganz neue Welt der Gefahren offenbart. Bei einem Brennvorgang können sehr viele
+Bei meiner Recherche hat sich eine ganz neue Welt der Gefahren(?) offenbart. Bei einem Brennvorgang können sehr viele
 giftige und unerwünschte chemische Produkte entstehen, die auf ihre unsichtbare Art bei uns Allergien verursachen oder
 sogar kanzerogen wirken können.
 Wie ich herausgefunden habe, ist eine gute Orientierung bei den Kerzen der
@@ -134,7 +134,7 @@ Es wäre gelogen, wenn ich behauptet hätte, dass mein Weg zur Kerzenherstellung
 wirklich?”.
 Die Menge an Informationen hat mich anfangs überfordert und irgendwie fand ich es fast schon unglaubwürdig, wie viele
 Details diese “simple” Sache hat. Ich habe nun auf jeden Fall viel mehr Respekt vor Kerzenmanufakturen. Zudem habe ich
-sehr viele unterschiedliche Anleitungen im Internet gefunden, “wie eine Kerze zu 100% gelingt”. Nur irgendwie hat keine
+sehr viele unterschiedliche Anleitungen im Internet gefunden, “wie eine Kerze zu 100% gelingt”. Nur irgendwie war keine
 Anleitung das Ultimative für mich. Der Trick liegt letztendlich daran, sich an den Prinzipien und Vorgaben der
 Produktherstellern zu orientieren und eigene Erfahrung zu sammeln.
 Wie ich am Anfang geschrieben habe, liebe ich Kerzen. Und je mehr ich darüber gelernt habe, desto mehr habe ich auf
@@ -157,3 +157,5 @@ kann ich diese Kerze mit einem guten Gewissen verschenken.
 
 Wenn du lesen möchtest, wie ich meine erste Kerze zum Verschenken hergestellt habe, schau in den Artikel, wo ich den
 Herstellungsverfahren dazu beschreibe.
+
+

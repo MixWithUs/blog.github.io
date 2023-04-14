@@ -1,9 +1,9 @@
 ---
 title: "Über Zlata"
-date: "2023-02-06"
+date: "2023-04-14"
 draft: false
 description: "Description"
-summary: "This is my fist article."
+summary: "Schau rein um Zlata besser kennenzulernen."
 slug: "about-zlata"
 tags: ["about us"]
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Über uns"
 description: "About us."
-summary: "Wer wir sind."
+summary: "Hier kannst du mehr über uns erfahren."
 showDateUpdated: true
-date: 2023-03-05
+date: 2023-04-14
 draft: false
 slug: "about-us"
 tags: ["about us"]

@@ -1,9 +1,9 @@
 ---
 title: "Über Yana"
-date: 2023-02-06
+date: 2023-04-14
 draft: false
 description: "This is very personally"
-summary: "This is very personally"
+summary: "Schau rein um Yana besser kennenzulernen."
 slug: "about-yana"
 tags: ["about us"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Über uns"
+title: "Warum wir Marzipan so lieben"
 description: "About us."
 summary: "Hier kannst du mehr über uns erfahren."
 showDateUpdated: true
@@ -17,19 +17,20 @@ unsere Rezepte und tob dich aus :wink:.
 
 ### Zlata
 
-Ich experimentiere mit diversen Kosmetikformeln seit März 2022. Angefangen habe ich mit verschiedenen Gesichtsreinigern,
+Seit März 2022 habe ich angefangen,mit einigen Formeln herumzuspielen. Meine ersten Versuche waren verschiedenen
+Gesichtsreinigern gewidmet,
 die inzwischen einen soliden Reifegrad erreicht haben. Ich fühle mich sehr komfortabel mit dem
-Gedanken, einige selbstgemachte Produkte zu verschenken. Sie werden sicher nicht in der Ecke eines Badschrankes einsam,
+Gedanken, einige selbstgemachte Produkte zu verschenken. Sie werden sicher nicht in der Ecke eines Badschranks einsam,
 oder in Gesellschaft anderer unbeliebten Produkte, verstauben. Sie sind genau das, was ich in meinem Kopf von Anfang an
 vorhatte, und haben sogar meine ursprüngliche Vorstellung in einigen Punkten übertroffen.
 
-Ich entdecke gerne neue Dinge und gehe weiter. Gesichtspflege-Routinen zu bilden, die Jahre überdauern würden, war nie
-meine Stärke, und das, obwohl mir bewusst ist, dass Regelmäßigkeit bei manch einer Gewohnheit das Erfolgsrezept ist. Aus
+Ich entdecke gerne neue Dinge und gehe weiter. Wenn es um Gesichtspflege-Routinen geht, fällt es mir schwer, langfristig
+dran zu bleiben, obwohl ich weiß, dass Regelmäßigkeit wichtig ist, um Ergebnisse zu sehen. Aus
 diesem Grund bin ich auf der Suche nach simplen und natürlichen Gerüchen, in die ich mich beim ersten Schnüffeln
 verliebe. Denn was ist eine bessere Voraussetzung für eine lang anhaltende Gewohnheit als eine aufrichtige Liebe :heart:
 ?
 
-Yana ist meine work besty. Von Anfang an haben wir die gleiche Sprache, buchstäblich wie sinnbildlich, gesprochen. Als
+Yana ist meine Work Besty. Von Anfang an haben wir die gleiche Sprache, buchstäblich wie sinnbildlich, gesprochen. Als
 woman in tech teile ich mit Yana viele gemeinsame Interessen wie Code, Katzen und Kosmetik. Yana malt leidenschaftlich
 gern und hat einen ausgeprägten Sinn für Ästhetik, außerdem ist sie eine sehr direkte Person, was sich in dieser
 ritualisierten Bürowelt wie ein Hauch frischer Luft anfühlt.
@@ -65,25 +66,28 @@ aus, dass man eigene Kosmetikprodukte zu Hause herstellen kann.
 
 Der letzte Schubser, um sich selbst an das Herstellen der Kosmetik ran zu machen, war für mich die Erkenntnis, dass
 meine gekaufte, hochwertige Kosmetik voll mit Mikroplastik und biologisch schwer abbaubaren Produkten ist. Eigentlich
-habe ich mich bei der Kosmetik an “guten” Namen und angenehme Konsistenz orientiert. Leider war das in meinem Fall keine
-Garantie für gute Qualität und hohe Umweltstandards.
+habe ich mich bei der Kosmetik an “guten” Namen und angenehme Konsistenz orientiert. Leider machte ich die Erfahrung,
+dass all das keine
+Garantie für gute Qualität und hohe Umweltstandards ist.
 
 In der Welt der Kosmetikherstellung bin ich neu. Das bedeutet, dass ich noch sehr viele Fragen für mich und für euch
-aufklären möchte. Besonders spannend finde ich, dass man selbst über Inhaltsstoffe und Konsistenz des Produktes
+aufklären möchte. Besonders spannend finde ich, dass man über Inhaltsstoffe und Konsistenz des Produktes
 bestimmen kann, wenn man
-es persönlich kreiert. Ich bin ein Mensch, der es einfach hasst, einen öligen Film auf meiner Haut zu haben. Nicht
+es selbst kreiert. Ich bin ein Mensch, der es einfach hasst, einen öligen Film auf meiner Haut zu haben. Nicht
 fettende, haptisch leichte und angenehme Kosmetik ist die Richtung, in die ich mit meinen Experimenten gehen möchte.
 
-Was ich außer selbstkreierten Kosmetik ausprobieren möchte, sind auch weniger aufwändige Thematiken, wie Kerzenherstellung.
-Das Gebiet schätze ich simpler als Kosmetik ein, weil es weniger Inhaltsstoffe bei der Herstellung
-benötigt. Die Sicherheit bzw. die Schadstofffreiheit der Kerzen wird aus meiner Sicht unglaublich oft unterschätzt, weil die Kerzen so verbreitet
+Was ich neben selbstkreierter Kosmetik ausprobieren möchte, sind auch weniger aufwändige Themen, wie Kerzenherstellung.
+Das Gebiet schätze ich als einfacher im Vergleich zur Kosmetik ein, weil es weniger Inhaltsstoffe bei der Herstellung
+benötigt. Die Sicherheit bzw. die Schadstofffreiheit der Kerzen wird aus meiner Sicht unglaublich oft unterschätzt, weil
+Kerzen so verbreitet
 sind. Wenn ich mich mit Kerzen beschäftigt habe, dann ging es mir lediglich um das Aussehen
 und
 den Geruch. Das sind sicherlich super wichtige Aspekte, die Kerzen sollen ja schließlich auch für die Stimmung
 sorgen. Aber sind das wirklich
-die einzigen wichtigen Themen bei den Kerzen? Was ist eigentlich damit, aus welchem Rohstoff sie hergestellt sind? Und
+die einzigen wichtigen Themen bei Kerzen? Aus welchem Rohstoff sind sie hergestellt? Und
 können
-mir die Kerzenfarben und Duftstoffe beim Verbrennen schaden? Das sind ja schließlich Stoffe, die ich einatme. Kerzen sind also noch ein
+die Kerzenfarben und Duftstoffe mir beim Verbrennen schaden? Das sind ja schließlich Stoffe, die ich einatme. Kerzen
+sind ein
 Thema, das ich für mich eröffnet habe.
 
 Ich kann mich Zlata nur anschließen, wenn ich sage, dass ich unglaublich gespannt auf diese neue Wende in meinem Leben

@@ -10,9 +10,12 @@ tags: ["about us"]
 
 ## Willkommen in die neue bessere Welt
 
+
 ### Das Traditionelle
 
-Hallo lieber Mensch, ich bin Yana und ich bin in Hamburg zuhause. Ich komme ursprünglich aus Usbekistan und seit meiner
+Hallo lieber Mensch,
+
+ich bin Yana und ich bin in Hamburg zuhause. Ich komme ursprünglich aus Usbekistan und seit meiner
 Teenagerzeit bin ich hier.
 
 Ich habe Bio-Informatik studiert und arbeite seitdem als Software-Entwicklerin, aber meine Leidenschaft für Biologie

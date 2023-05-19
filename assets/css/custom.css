@@ -3,6 +3,11 @@
     float: right;
 }
 
+.image-container-30 img{
+    max-width: 30%;
+    float: right;
+}
+
 .image-container-5 img{
     max-width: 5%;
     float: left;

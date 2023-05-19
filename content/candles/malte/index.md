@@ -1,12 +1,14 @@
 ---
 title: "Eine Kerze für Malte"
-date: 2023-05-20
+date: "2023-05-14"
 draft: false
 description: "Eine Kerze für Malte"
 summary: "Kerzen"
 slug: "candle-for-malte"
 tags: ["candles"]
 ---
+
+## Eine Kerze für Malte
 
 Hallo lieber Mensch,
 

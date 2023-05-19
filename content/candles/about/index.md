@@ -216,9 +216,7 @@ zertifizieren lassen, aber da ich ein gutes und hochwertiges Wachs und einen Bau
 kann ich diese Kerze mit einem guten Gewissen verschenken.
 
 Wenn du lesen möchtest, wie ich meine erste Kerze zum Verschenken hergestellt habe, schau in den
-[Artikel]({{< ref "candles/malte" >}}) rein, in dem ich
-das
-Herstellungsverfahren dazu beschreibe.
-
+[Artikel]({{< ref "candles/malte" >}})
+rein, in dem ich das Herstellungsverfahren dazu beschreibe.
 
 [Unsere Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).

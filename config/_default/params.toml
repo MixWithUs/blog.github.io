@@ -32,7 +32,7 @@ recentLimit = 7
 
 [article]
 showDate = true
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
 showBreadcrumbs = true
 showDraftLabel = true

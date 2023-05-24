@@ -13,9 +13,9 @@ tags: ["candles"]
 Hallo lieber Mensch,
 
 ich freue mich, dir meine erste selbstgemachte Kerze zum Verschenken vorzustellen!
-Bevor ich diese schlichte Kontainerkerze gegossen habe, habe ich mit einigen Fehlversuchen meine Erfahrung gesammelt. Es
-war für mich sehr wichtig sowohl das Wachs kennenzulernen, als auch die Technik des richtigen Erhitzens und Gießens zu
-verstehen.
+Bevor ich diese schlichte Kontainerkerze gegossen habe, habe ich mit einigen Fehlversuchen meine Erfahrung gesammelt.
+Ich habe es mir das Ziel gesetzt, die Verarbeitung von Wachs besser zu verstehen, und die richtige Erhitz- und
+Gießtechniken zu erforschen.
 Letztendlich habe ich gelernt, dass ich eine Sequenz von einfachen Schritten einhalten muss, damit ich ein gutes
 Ergebnis erziele. In diesem Post werde ich diese Schritte beschreiben.
 
@@ -42,19 +42,18 @@ versteckten Glückskäfer.
 besteht darin, dass der Glückskäfer mit Wachs bedeckt wird und wenn die Kerze brennt und das Wachs durch das
 Erwärmen durchsichtig wird, zum Vorschein kommt.
 
-Als den Behälter für die Kerze habe ich ein leeres Glas von meiner Lieblingsmarmelade verwendet. Das Glas habe ich
-von Außen mit roter Farbe und den Deckel mit weißer Farbe übermalt, da diese Farbkombination
-unseren Teamfarben entspricht.
+Als Behälter für die Kerze habe ich ein leeres Glas meiner Lieblingsmarmelade verwendet. Das Glas habe ich
+von Außen mit roter Farbe und den Deckel mit weißer Farbe übermalt.
 
 ## Vorbereitung
 
 ### Geräte
 
-Es ist wichtig, dass alle verwendetet Geräte und Gegenstände sauber, trocken, fett- und stabfrei sind. Wir wollen ja
-schließlich
-nicht, dass in der Kerze Schmutz eingeschlossen wird.
+Es ist wichtig, dass alle verwendetete Geräte und Gegenstände sauber, trocken, fett- und staubfrei sind. Das ist
+wichtig, damit in der Kerze kein Schmutz eingeschlossen wird.
 
-Das Wachs wird am besten in einem Wasserbad geschmolzen. Das Wasser wird erhitzt, es darf jedoch nicht aufkochen, sonst
+Das Wachs wird am Besten in einem Wasserbad geschmolzen, so bekommt man mehr Kontrolle beim Erhitzen. Das Wasser wird
+erhitzt, es darf jedoch nicht aufkochen, sonst
 kann das sprudelnde Wasser in das Wachs reinspritzen. Wachs ist hydrophob (wasserabweisend) und verträgt sich deswegen
 nicht mit Wasser. Selbst
 kleine Mengen an Feuchtigkeit können dafür sorgen, dass die aufgeschmolzene Wachsmasse ihre Eigenschaften
@@ -66,19 +65,19 @@ Natürlich muss auch dieser Gegenstand sauber und trocken sein. Da ich das Glas 
 Vorfeld angemalt und trocknen lassen, sodass ich es jetzt benutzen kann.
 
 Das Glas wärme ich über ein Wasserbad ein wenig an, damit die Glaswände nicht kalt sind, wenn das heiße Wachs
-ausgegossen wird. Das erhöht die Adhäsion vom Wachs an den Glaswänden.
+ausgegossen wird. Das erhöht die Adhäsion (Anhaften) vom Wachs an den Glaswänden.
 
 ### Der Docht
 
 muss zum Kerzendurchmesser passen. Die Hersteller bzw. die Verkäufer geben häufig Angaben für die Dochte und den
 Kerzendurchmesser an, die hilfreich für die Wahl eines passenden Dochtes sind.
-Für meine Kerze mit dem Durchmesser von 8cm empfiehlt der Hersteller einen runden Kerzendocht in der Größe 8.
+Für meine Kerze mit einem Durchmesser von 8cm empfiehlt der Hersteller einen runden Kerzendocht in Größe 8.
 Falls dir diese Informationen für deinen Docht bzw. Kerze fehlen, musst du wohl hier die empirische Forschungsmethode
 anwenden, also ausprobieren.
 
-Der Kerzendocht muss in dem Kerzenbehälter festgeklebt werden. Dafür kann der Docht an einem Metallfuss
-befestigt werden, welcher dann auch am Behälterboden fest geklebt wird. Den Metallfuss kann man am besten mit
-Kleber oder mit einem kleinen runden Klebesticker kleben.
+Der Kerzendocht muss in dem Kerzenbehälter festgeklebt werden. Dafür kann der Docht an einem Metallfuß
+befestigt werden, welcher dann auch am Behälterboden fest geklebt wird. Den Metallfuß kann man am besten mit
+Kleber oder mit einem kleinen runden Klebesticker befestigen.
 
 <div class="image-container">
 
@@ -89,32 +88,32 @@ Kleber oder mit einem kleinen runden Klebesticker kleben.
 </div>
 
 
-Es ist auch möglich, einen Docht ohne einen Metallfuss zu kleben. Ich habe es aber nicht ausprobiert. Was nicht
+Es ist auch möglich, einen Docht ohne einen Metallfuß zu kleben. Ich habe es aber nicht ausprobiert. Was nicht
 funktioniert, ist einen Docht mit einem Tropfen Wachs zu kleben. Beim Eingießen vom heißen Wachs in das Glas
-wird dieser Wachstropfen wieder heiß und flüssig. Der Docht klebt damit nicht mehr am Boden. Just saying, falls
-diese spontane Idee dich, genau wie mich bei meinen ersten Experimenten, besucht haben sollte :wink:
+wird dieser Wachstropfen wieder heiß und flüssig. Der Docht klebt nicht mehr am Boden. Just saying, falls
+diese spontane Idee dich, genau wie mich bei meinem ersten Experiment, besucht haben sollte :wink:
 
-Nachdem der Kleber fest geworden ist, muss der Docht gerade ausgerichtet und fixiert werden, sonst
-verschiebt sich der Docht seitlich oder versinkt im flüssigen Wachs. Ich benutze dafür zwei Esstäbchen, zwischen
+Nachdem der Kleber festgeworden ist, muss der Docht gerade ausgerichtet und fixiert werden, sonst
+verschiebt sich der Docht seitlich oder versinkt im flüssigen Wachs. Ich benutze dafür zwei Essstäbchen, zwischen
 denen ich einen Docht wunderbar einklemmen und dann vorsichtig spannen und zentrieren kann.
 
 ### Wachs
 
-Jede Wachsart und jeder Hersteller haben eigene Angaben zur Schmelz- und Ausgießtemperatur des Wachs. Sie können sich
-auch bei unterschiedlichen Wachsarten, /-marken, /-herstellern variieren, daher sollte man diese bei dem Hersteller
+Jede Wachsart und jeder Hersteller haben eigene Angaben zur Schmelz- und Ausgießtemperatur des Wachs. Sie können
+unterschiedlichen Marken und Wachsarten variieren, daher sollte man diese bei dem Hersteller
 nachlesen. Wichtig sind vor allem folgende Werte:
 
 * Maximale Schmelztemperatur: auf wie viel Grad darf das Wachs maximal erhitzt werden
 * Ausgießtemperatur: bei wie viel Grad soll das Wachs in die Form eingegossen werden
 
-Hierfür nutzte ich ein Thermometer und kann es dir auch sehr empfehlen.
+Um die diese Werte zu kontrollieren, nehme ich ein Thermometer.
 
 Bei dem Sojawachs, das ich verwendet habe, empfiehlt der Hersteller das Einschmelzen bis maximal 70°C und das Ausgießen
 bei 50°C. Wenn man keine Farbe oder andere Zusätze reinmischt, muss man das Wachs nicht bis zur maximalen Temperatur
 erhitzen.
 
 {{< alert >}}
-Vorsicht, Verbrennungsgefahr! Geschmolzener Wachs ist eine heiße Sache und damit muss vorsichtig gearbeitetet werden
+Vorsicht, Verbrennungsgefahr! Geschmolzener Wachs ist eine heiße Sache und damit musst du achtsam umgehen
 {{< /alert >}}
 
 Hier sind noch zwei hilfreiche Empfehlungen:
@@ -151,15 +150,15 @@ Wachs gleichmäßig abkühlen.
 ## Durchführung
 
 Ich habe mein Wachs in zwei Portionen aufgeteilt, weil ich einen Glückskäfer zwischen den Wachsschichten verstecken
-möchte. Die erste Schicht muss antrocknen, sodass ich den Glückskäfer drauflegen kann, ohne dass er versinkt. Nach dem
+möchte. Die erste Schicht muss abkühlen, sodass ich den Glückskäfer drauflegen kann, ohne dass er versinkt. Nach dem
 die erste Schicht trocken ist und der Käfer plaziert ist, kann die zweite Schicht einfach darauf gegossen werden.
 
-Meine erste Schicht besteht aus 120g Wachs. Die zweite Schicht, die ca 1cm dick sein soll, wiegt etwa 30g.
+Meine erste Schicht besteht aus 120g Wachs. Die zweite Schicht, die etwa 1cm dick sein soll, wiegt etwa 30g.
 
-Nach dem Abwiegen des Wachses, kannst du das Wasserbad vorbereiten und das Wasser erhitzen. Jetzt kann das Wachs
+Nach dem Abwiegen des Wachses kannst du das Wasserbad vorbereiten und das Wasser erhitzen. Jetzt kann das Wachs
 geschmolzen werden 😊
 
-### Schicht 1.:
+### 1. Schicht:
 
 Ich habe die erste Wachsschicht (120g) langsam auf 60°C erhitzt, bis es vollständig geschmolzen war. Es ist ratsam
 nicht zu viel zu rühren, weil sich sonst kleine Luftbläschen im Wachs verfangen und dann beim Abkühlen in der Kerze
@@ -183,9 +182,8 @@ Jetzt kann der Glückskäfer auf der ersten Schicht platziert werden.
 
 ### Und nun die 2. Schicht:
 
-Die restlichen 30g Wachs werden genau so behandelt wie die erste Schicht. Wenn das Wachs auf die Ausgießtermperatur
-abgekühlt ist, kann es auf die erste Schicht gegossen werden. Ich habe mein Kerzenglas vorsichtig seitlich
-abgeklopft, damit alle sich eventuell gebildeten Luftbläschen das Wachs verlassen können.
+Die restlichen 30g Wachs werden genauso behandelt wie die erste Schicht. Wenn das Wachs auf die Ausgießtermperatur
+abgekühlt ist, kann es auf die erste Schicht gegossen werden.
 
 Ab jetzt wird die Kerze nicht mehr bewegt. Die Kerze muss für ein paar Stunden in Ruhe bei Zimmertemperatur
 abkühlen, bis das Wachs
@@ -205,5 +203,5 @@ Die Kerze ist fertig! Viel Spass beim Ausprobieren 😉
 teilt 😅
 
 Auf Dekorationen und stimmungsvolle Akzente legt Malte nicht sehr viel Wert. Der 🐞 war trotzdem eine schöne
-Überraschung für unseren Kollegen. Hoffentlich sorgt die Kerze bei ihm weiterhin für gute Stimmung und erinnert ihn an
+Überraschung für ihn. Hoffentlich sorgt die Kerze bei Malte weiterhin für gute Stimmung und erinnert ihn an
 unser Team :heart:

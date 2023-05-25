@@ -7,9 +7,9 @@ slug: "cosmetics"
 tags: ["cosmetics"]
 
 cascade:
-showDate: true
-showAuthor: true
-showSummary: true
-invertPagination: false
+  showDate: true
+  showAuthor: true
+  showSummary: true
+  invertPagination: false
 ---
 

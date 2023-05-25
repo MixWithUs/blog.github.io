@@ -2,10 +2,10 @@
 title: "Yanas Marzipan Make Up Remover"
 date: 2023-04-15
 draft: false
-description: "Der Marzipan Make Up Remover"
+description: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Make Up Remover. Entdecke zwei Formeln, Zutatenportraits, Anleitungen und Konservierungstipps."
 summary: "Der Marzipan Make Up Remover"
-slug: "cosmetics"
-tags: ["cosmetics"]
+slug: "marzipan-makeup-remover"
+tags: ["cosmetics", "Kosmetik", "vegan", "natürlich", "kreativ", "Make-up", "Remover", "Selbstrührer", "mixing", "Rezept"]
 ---
 
 
@@ -23,7 +23,7 @@ Mixer:innen. Im Beitrag findest du Informationen, die dich bei der Herstellung b
 
 ![makeup-removal](removal_small.jpg)
 
-### Yanas Marzipan Make Up Remover
+## Yanas Marzipan Make Up Remover
 
 Die erste Formel ist für jemanden, der selten wasserfeste Make Up Produkte benutzt und eher wenig augenbetonendes Make
 Up im Alltag trägt. Etwas Concealer und Lippenstift und eine ordentliche Portion Sonnenschutzcreme ist aber hiermit
@@ -48,7 +48,7 @@ hinterlässt ein langanhaltendes seidiges gepflegtes Gefühl auf der Haut.
 | Alpha Bisabolol         | 0.5%     | Antientzündlicher Wirkstoff                              |
 | Magnolia Extrakt        | 0.2%     | Konservierung, feuchtigkeitsspendender Stoff           |
 
-### Marzipan der Zweite
+## Marzipan der Zweite
 
 Die zweite Formel hat minimale Änderungen, die dafür konzipiert sind, den Reinigungsprozess kräftig zu unterstützen.
 Bist du im Team “Make Up gehört zum Alltag”? Dann ist diese Abwandlung genau die Richtige für dich. Mit einem milden
@@ -74,7 +74,7 @@ Pflegekonzept erreichen versuchen.
 | Alpha Bisabolol          | 0.5%     | Antientzündlicher Wirkstoff                              |
 | Magnolia Extrakt         | 0.2%     | Konservierung, feuchtigkeitsspendender Stoff           |
 
-### Zutaten
+## Zutaten
 
 _Pflaumenkernöl_ wird aus Pflaumenkernen gewonnen. Unter dem Aspekt der Nachhaltigkeit kann das Öl einige
 Sympathiepunkte gewinnen. Es wird oft als Nebenprodukt der Lebensmittelindustrie hergestellt und ermöglicht somit eine
@@ -120,7 +120,7 @@ Kannst du eine Zutat nicht beim Anbieter deiner Wahl finden, so kann es daran li
 Handelsnamen führt. Es kann sich lohnen, in die Suche die entsprechenden INCIs als Suchbegriffe einzugeben.
 {{< /alert >}}
 
-### Zubereitung
+## Zubereitung
 
 Beide Formeln lassen sich auf gleiche Art und Weise zubereiten. Dafür brauchst du:
 
@@ -150,7 +150,7 @@ Das Produkt braucht einige Stunden, bis es seine Endkonsistenz erreicht hat.
 
 ![inci](inci_small.png)
 
-### Warum sind Konservierungsmittel enthalten?
+## Warum sind Konservierungsmittel enthalten?
 
 Der Reiniger setzt auf ein Konservierungssystem aus Pentylene Glycol und Magnolia Extrakt, welches oft in
 Naturkosmetikprodukten eingesetzt wird. Beide Reiniger sind zwar ölbasiert, sie werden aber in Verbindung mit Wasser

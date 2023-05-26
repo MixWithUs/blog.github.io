@@ -2,8 +2,9 @@
 title: "Über Zlata"
 date: "2023-04-14"
 draft: false
-description: "Description"
+description: "Schau rein um Zlata besser kennenzulernen."
 summary: "Schau rein um Zlata besser kennenzulernen."
+author: "Zlata"
 slug: "about-zlata"
 tags: ["about us"]
 ---

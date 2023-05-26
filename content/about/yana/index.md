@@ -4,6 +4,7 @@ date: 2023-04-14
 draft: false
 description: "This is very personally"
 summary: "Schau rein um Yana besser kennenzulernen."
+author: "Yana"
 slug: "about-yana"
 tags: ["about us"]
 ---
@@ -23,7 +24,7 @@ und Chemie habe ich nie verloren.
 In meiner Freizeit mag ich kochen, essen, malen, gärtnern, schlafen… All das bereitet mir Freunde und wird am liebsten
 in der Reihenfolge durchgeführt.
 
-### Ich dachte ganz lange,
+## Ich dachte ganz lange,
 
 dass Kosmetik eine Sache der großen Industrien ist und sie haben das im Griff. Ich bin immer mehr Richtung teure
 Kosmetik abgedriftet und habe es mir bequem gemacht, indem ich mich einfach auf Preise und bekannte Namen verlassen habe.
@@ -51,7 +52,7 @@ selbst seine Kosmetik zu Hause herstellt, kann über den Geruch, den Aggregatzus
 bestimmen. Das hat mich so stark beeindruckt, dass ich zum ersten Mal wirklich verstanden habe, weshalb es so erfüllend
 sein kann, selbst kosmetische Produkte zu entwerfen.
 
-#### Eine Anfängerin
+### Eine Anfängerin
 
 Niemals habe ich gedacht, dass mich das Herstellen von Kosmetik interessieren wird, und nun sitze
 ich hier und schreibe meinen ersten Artikel in unserem Kosmetik-Blog.
@@ -60,7 +61,7 @@ Allgemeinen und die Herstellung im Speziellen angeht. Ich werde noch ganz viele 
 Rezepturen durchtesten, und ich bin auf die Zeit gespannt, in der ich meine eigenen Rezepte entwickle, wirksame und
 persönliche Pflegeprodukte herstelle. Ich denke, dass mein naturwissenschaftliches Studium mich da unterstützen wird.
 
-### Warum nur Kosmetik?
+## Warum nur Kosmetik?
 
 Ja, warum eigentlich? Es gibt so viele Sachen, die das Leben schöner machen können, dazu zählt nicht nur sichere
 Kosmetik, sondern auch "einfachen" Gegenstände, wie Kerzen. Es gibt eine riesige Anzahl von Kerzen auf dem Markt, aber
@@ -74,7 +75,7 @@ verkauft
 und trotzdem grenzt die Zusammensetzung mancher Kerzen fast schon an Körperverletzung. Natürlich möchten wir nicht auf
 schöne Kerzen verzichten, das ist der Grund, warum wir uns auch mit dem Thema Kerzen in unserem Blog befassen werden.
 
-### Nun bin ich neugierig und habe Fragen über Fragen…
+## Nun bin ich neugierig und habe Fragen über Fragen…
 
 Was ist eigentlich Naturkosmetik?
 

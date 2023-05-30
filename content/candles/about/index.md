@@ -156,11 +156,7 @@ An deren Marken habe ich mich orientiert.
 
 ### Das RAL-Gütezeichen
 
-<div class="image-container-50">
-
-![ral](ral.png)
-
-</div>
+{{< figure src="ral.png" class="text-image-floating-50" >}}
 
 Ich habe bereits auf das [RAL-Gütezeichen](https://ral-c.com/ral-guetezeichen/) hingewiesen, aber was ist
 das eigentlich? Es handelt sich um ein wichtiges Zertifikat in Deutschland, welches sicherstellt, dass

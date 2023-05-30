@@ -6,6 +6,8 @@ description: "Eine Kerze für Malte"
 summary: "Kerzen"
 slug: "candle-for-malte"
 tags: ["candles"]
+
+thumbnail: luckyBeetle2.jpg
 ---
 
 ## Eine Kerze für Malte

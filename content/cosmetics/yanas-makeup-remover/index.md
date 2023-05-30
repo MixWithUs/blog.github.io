@@ -8,7 +8,7 @@ slug: "marzipan-makeup-remover"
 tags: ["cosmetics", "Kosmetik", "vegan", "natürlich", "kreativ", "Make-up", "Remover", "Selbstrührer", "mixing", "Rezept"]
 
 # will pick either 'thumbnail' field and fallback to whatever image has `thumb` in the name
-thumbnail: removal_small.jpg
+# thumbnail: thumb.jpg
 ---
 
 

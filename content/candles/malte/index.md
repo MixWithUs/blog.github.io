@@ -21,13 +21,7 @@ Ergebnis erziele. In diesem Post werde ich diese Schritte beschreiben.
 
 ## Die Entstehung meiner ersten verschenkten DIY Kerze
 
-<div class="image-container-30">
-
-
-![ral](luckyBeetle2.jpg)
-
-
-</div>
+{{< figure src="luckyBeetle2.jpg" class="text-image-floating" >}}
 
 Und du bist dabei! Ich finde das sehr aufregend! :heart:
 

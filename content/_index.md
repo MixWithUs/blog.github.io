@@ -10,7 +10,7 @@ description: "Entdecke unsere umfangreiche Welt der natürlichen und veganen Kos
 tags: ["cosmetics", "candles", "soaps", "Kosmetik", "Kerzen", "Seifen", "vegan", "natürlich", "kreativ", "Selbstrührer", "mixing", "Rezept"]
 ---
 
-{{< figure src="3_erlenmeyer_flasks_with_violet.png" class="m-auto mt-6 max-w-prose" >}}
+{{< figure src="3_erlenmeyer_flasks_with_violet.jpg" class="m-auto mt-6 max-w-prose" >}}
 
 **Vegan. Natürlich. Kreativ.**
 

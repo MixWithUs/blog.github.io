@@ -6,6 +6,66 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.6.0] - 2023-05-25
+
+### Added
+
+- Support for Hugo v0.112.0
+- Ability to specify an alternate logo image when dark appearance is active ([#533](https://github.com/jpanther/congo/pull/533), [#543](https://github.com/jpanther/congo/pull/543))
+- Ability to specify the hashing algorithm that is used when fingerprinting assets ([#478](https://github.com/jpanther/congo/issues/478))
+- Arabic translation ([#521](https://github.com/jpanther/congo/pull/521))
+- Slovak translation ([#541](https://github.com/jpanther/congo/pull/541))
+- Czech translation ([#541](https://github.com/jpanther/congo/pull/541))
+
+### Changed
+
+- ⚠️ Some parameters in the root of the Languages config file have been nested under the `params` block
+- Search results now respect `showDate` value when displaying article metadata ([#511](https://github.com/jpanther/congo/pull/511))
+- Adopted new Tailwind logical properties for RTL styling
+- Article sharing links now open in a new tab/window
+- Updated Dutch translation ([#544](https://github.com/jpanther/congo/pull/544))
+- Upgrade to Tailwind v3.3.1 ([#523](https://github.com/jpanther/congo/pull/523))
+- Upgrade to KaTeX v0.16.7 ([#538](https://github.com/jpanther/congo/pull/538), [#549](https://github.com/jpanther/congo/pull/549))
+- Upgrade to Chart.js v4.3.0 ([#551](https://github.com/jpanther/congo/pull/551))
+- Upgrade to Mermaid v10.2.0 ([#563](https://github.com/jpanther/congo/pull/563))
+
+### Fixed
+
+- Some `srcset` values are broken when using Hugo `--minify` option ([#508](https://github.com/jpanther/congo/pull/508))
+- Author images are cropped off-centre during image processing ([#527](https://github.com/jpanther/congo/pull/527))
+- Site doesn't build when using Hugo v0.112.0 ([#561](https://github.com/jpanther/congo/pull/561))
+
+## [2.5.4] - 2023-03-20
+
+### Added
+
+- Polish translation ([#497](https://github.com/jpanther/congo/pull/497))
+
+### Changed
+
+- Updated Russian translation ([#502](https://github.com/jpanther/congo/pull/502))
+
+### Fixed
+
+- Bengali translation prevents site building in certain configurations ([#503](https://github.com/jpanther/congo/issues/503))
+
+## [2.5.3] - 2023-03-05
+
+### Added
+
+- Russian translation ([#485](https://github.com/jpanther/congo/pull/485))
+
+### Changed
+
+- Updated German translation ([#475](https://github.com/jpanther/congo/pull/475))
+- Upgrade to Chart.js v4.2.1 ([#472](https://github.com/jpanther/congo/pull/472))
+- Upgrade to Mermaid v9.4.0 ([#473](https://github.com/jpanther/congo/pull/473))
+- Upgrade to Tailwind v3.2.7 ([#491](https://github.com/jpanther/congo/pull/491))
+
+### Fixed
+
+- Caching the analytics partial prevents some advanced analytics use cases ([#480](https://github.com/jpanther/congo/issues/480))
+
 ## [2.5.2] - 2023-01-24
 
 ### Added
@@ -628,7 +688,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.5.2...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.6.0...HEAD
+[2.6.0]: https://github.com/jpanther/congo/compare/v2.5.4...v2.6.0
+[2.5.4]: https://github.com/jpanther/congo/compare/v2.5.3...v2.5.4
+[2.5.3]: https://github.com/jpanther/congo/compare/v2.5.2...v2.5.3
 [2.5.2]: https://github.com/jpanther/congo/compare/v2.5.1...v2.5.2
 [2.5.1]: https://github.com/jpanther/congo/compare/v2.5.0...v2.5.1
 [2.5.0]: https://github.com/jpanther/congo/compare/v2.4.2...v2.5.0

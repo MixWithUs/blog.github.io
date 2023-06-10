@@ -2,11 +2,12 @@
 title: "Über Yana"
 date: 2023-04-14
 draft: false
-description: "This is very personally"
+description: "Schau rein um Yana besser kennenzulernen."
 summary: "Schau rein um Yana besser kennenzulernen."
 author: "Yana"
 slug: "about-yana"
-tags: ["about us"]
+tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",
+"Seifen", "vegan", "natürlich", "kreativ", "Selbstrührer", "mixing", "Yana"]
 ---
 
 ## Willkommen in die neue bessere Welt

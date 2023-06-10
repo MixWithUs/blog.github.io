@@ -6,7 +6,10 @@ showDateUpdated: true
 date: 2023-04-14
 draft: false
 slug: "about-us"
-tags: ["about us"]
+tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen", 
+"Seifen", "vegan", "natürlich", "kreativ", "Selbstrührer", "mixing", "Zlata",
+"Yana"]
+
 
 ---
 Hey du,

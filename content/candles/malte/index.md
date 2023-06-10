@@ -2,10 +2,10 @@
 title: "Eine Kerze für Malte"
 date: "2023-05-14"
 draft: false
-description: "Eine Kerze für Malte"
-summary: "Kerzen"
+description: "Meine erste DIY Kerze zum Verschenken."
+summary: "Meine erste DIY Kerze zum Verschenken."
 slug: "candle-for-malte"
-tags: ["candles"]
+tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept"] 
 
 thumbnail: luckyBeetle2.jpg
 ---

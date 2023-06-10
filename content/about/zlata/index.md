@@ -6,7 +6,8 @@ description: "Schau rein um Zlata besser kennenzulernen."
 summary: "Schau rein um Zlata besser kennenzulernen."
 author: "Zlata"
 slug: "about-zlata"
-tags: ["about us"]
+tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",
+"Seifen", "vegan", "natürlich", "kreativ", "Selbstrührer", "mixing", "Zlata"]
 ---
 
 ## Kosmetikherstellung ist ein Handwerk kein Hexenwerk

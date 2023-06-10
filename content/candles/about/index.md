@@ -2,10 +2,10 @@
 title: "Kerzenlicht und Harmonie?"
 date: 2023-05-10
 draft: false
-description: "This is very personally"
-summary: "Kerzen"
+description: "Warum sind die Kerzen für uns ein Thema?"
+summary: "Warum sind die Kerzen für uns ein Thema?"
 slug: "candles"
-tags: ["candles"]
+tags: ["candles", "Kerzen", "vegan", "kreativ"]
 ---
 
 Hallo lieber Mensch,

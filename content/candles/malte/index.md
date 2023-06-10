@@ -45,7 +45,7 @@ von Außen mit roter Farbe und den Deckel mit weißer Farbe übermalt.
 
 ### Geräte
 
-Es ist wichtig, dass alle verwendetete Geräte und Gegenstände sauber, trocken, fett- und staubfrei sind. Das ist
+Es ist wichtig, dass alle verwendete Geräte und Gegenstände sauber, trocken, fett- und staubfrei sind. Das ist
 wichtig, damit in der Kerze kein Schmutz eingeschlossen wird.
 
 Das Wachs wird am Besten in einem Wasserbad geschmolzen, so bekommt man mehr Kontrolle beim Erhitzen. Das Wasser wird

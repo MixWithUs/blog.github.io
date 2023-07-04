@@ -2,8 +2,16 @@
 title: "Eine Kerze für Malte"
 date: "2023-05-14"
 draft: false
-description: "Meine erste DIY Kerze zum Verschenken."
-summary: "Meine erste DIY Kerze zum Verschenken."
+description: "Ich freue mich dir eine meinen ersten selbstgemachten Kerzen
+vorzustellen. Vor dem Gießen der schlichten Kontainerkerze habe ich einiges an
+Erfahrungen gesammelt und verschiedene Techniken erforscht, damit mir eine
+Kerze gelingt. Diese Tricks möchte ich mit dir teilen. Die Kerze ist vegan und 
+umweltfreundlich."
+summary: "Ich freue mich dir eine meinen ersten selbstgemachten Kerzen
+vorzustellen. Vor dem Gießen der schlichten Kontainerkerze habe ich einiges an
+Erfahrungen gesammelt und verschiedene Techniken erforscht, damit mir eine
+Kerze gelingt. Diese Tricks möchte ich mit dir teilen. Die Kerze ist vegan und
+umweltfreundlich."
 slug: "candle-for-malte"
 tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept"]
 
@@ -23,7 +31,7 @@ eine Sequenz von einfachen Schritten einhalten muss, damit ich ein gutes
 Ergebnis erziele. In diesem Post werde ich diese Schritte beschreiben, damit du
 auch eine eigene Kerze selber gießen kannst.
 
-## Die Entstehung meiner ersten verschenkten DIY Kerze
+## Die Entstehung meiner ersten DIY Geschenkkerze
 
 {{< figure src="luckyBeetle2.jpg" class="text-image-floating" >}}
 
@@ -195,7 +203,7 @@ Kerze bleiben. Das geschmolzene Sojawachs ist durchsichtig.
 
 Das heiße Wachs muss nun auf die Ausgießtemperatur abkühlen, diese liegt bei ca
 50°C. Nachdem die gewünschte Temperatur erreicht ist, wird das Wachs vorsichtig
-in die warme Gießform vorsichtig eingefüllt.
+in die warme Gefäß vorsichtig eingefüllt.
 
 Der Behälter wird vorsichtig mit den Fingern abgeklopft, damit die entstandene
 Luftbläschen nicht im Wachs gefangen bleiben und das Brennverhalten der Kerze

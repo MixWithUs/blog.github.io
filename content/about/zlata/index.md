@@ -10,9 +10,9 @@ hochwertige, schadstofffreie Produkte inspirieren und finde Anleitungen für
 DIY-Kosmetik und Kerzenprojekte. Kein Chemiestudium erforderlich – gemeinsam
 lernen wir die
 Grundlagen, konservieren Produkte richtig und setzen den pH-Wert. Werde Teil
-meiner kreativen Reise und entdecke die Freude und Kontrolle, die die
-selbstgemachte Kosmetik bietet. Besuche unseren Blog für Anfängerguides,
-Rohstoffportraits und bewährte Produktformeln."
+unserer kreativen Reise und erlebe die Freude und Kontrolle, die selbstgemachte
+Kosmetik bietet. Zusammen erkunden wir die Welt der Pflege-Kosmetik und des
+Kerzengießens."
 summary: "Willkommen, ich bin Zlata! Entdecke mit mir die Welt der
 selbstgemachten Kosmetik und Kerzen! Als
 autodidaktische Kosmetikherstellerin teile ich meine Erfahrungen, Rezepte und
@@ -21,9 +21,9 @@ hochwertige, schadstofffreie Produkte inspirieren und finde Anleitungen für
 DIY-Kosmetik und Kerzenprojekte. Kein Chemiestudium erforderlich – gemeinsam
 lernen wir die
 Grundlagen, konservieren Produkte richtig und setzen den pH-Wert. Werde Teil
-meiner kreativen Reise und entdecke die Freude und Kontrolle, die die
-selbstgemachte Kosmetik bietet. Besuche unseren Blog für Anfängerguides,
-Rohstoffportraits und bewährte Produktformeln."
+unserer kreativen Reise und erlebe die Freude und Kontrolle, die selbstgemachte
+Kosmetik bietet. Zusammen erkunden wir die Welt der Pflege-Kosmetik und des
+Kerzengießens."
 author: "Zlata"
 slug: "about-zlata"
 tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",

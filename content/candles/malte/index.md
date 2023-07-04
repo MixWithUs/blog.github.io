@@ -5,7 +5,7 @@ draft: false
 description: "Ich freue mich dir eine meinen ersten selbstgemachten Kerzen
 vorzustellen. Vor dem Gießen der schlichten Kontainerkerze habe ich einiges an
 Erfahrungen gesammelt und verschiedene Techniken erforscht, damit mir eine
-Kerze gelingt. Diese Tricks möchte ich mit dir teilen. Die Kerze ist vegan und 
+Kerze gelingt. Diese Tricks möchte ich mit dir teilen. Die Kerze ist vegan und
 umweltfreundlich."
 summary: "Ich freue mich dir eine meinen ersten selbstgemachten Kerzen
 vorzustellen. Vor dem Gießen der schlichten Kontainerkerze habe ich einiges an
@@ -13,7 +13,9 @@ Erfahrungen gesammelt und verschiedene Techniken erforscht, damit mir eine
 Kerze gelingt. Diese Tricks möchte ich mit dir teilen. Die Kerze ist vegan und
 umweltfreundlich."
 slug: "candle-for-malte"
-tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept"]
+tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
+"veganeKerzen", "DIYKerzen", "Kerzenherstellung",
+"nachhaltig","umweltfreundlich", "selbstgemacht","handgemachteKerzen"]
 
 thumbnail: luckyBeetle2.jpg
 ---

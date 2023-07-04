@@ -28,8 +28,6 @@ tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",
 
 ## Willkommen in die neue bessere Welt
 
-### Das Traditionelle
-
 Hallo lieber Mensch,
 
 ich bin Yana und ich bin in Hamburg zuhause. Ich komme ursprünglich aus
@@ -74,7 +72,7 @@ die sich nicht unbedingt mit der
 angebotenen
 Realität deckt.
 
-### Es gab “Marzipan” zu Weihnachten,
+## Es gab “Marzipan” zu Weihnachten,
 
 das Zlata mir geschenkt hat. Das war das erste Mal, dass sich eine Person in
 meinem Freundeskreis selbständig, ernsthaft
@@ -88,7 +86,7 @@ bestimmen. Das hat mich so stark beeindruckt, dass ich zum ersten Mal wirklich
 verstanden habe, weshalb es so erfüllend
 sein kann, selbst kosmetische Produkte zu entwerfen.
 
-### Eine Anfängerin
+## Eine Anfängerin
 
 Niemals habe ich gedacht, dass mich das Herstellen von Kosmetik interessieren
 wird, und nun sitze

@@ -100,7 +100,7 @@ meine kreative Ader geweckt. Das hat
 mich
 dazu bewegt, sichere Kerzen selber herzustellen.
 
-### Eine Kerze selber herstellen, was kann einfacher sein?
+## Eine Kerze selber herstellen, was kann einfacher sein?
 
 Mit dem Gedanken habe ich mich an das Kerzengießen gemacht und bin direkt
 hoffnungslos gescheitert. Ziemlich schnell
@@ -255,7 +255,7 @@ edlem Aussehen und der Sicherheit. Hast du schon mal eine schlichte
 RAL-zertifizierte Kerze für viel Geld gesehen? Keine
 Seltenheit.
 
-### Warum habe ich mich weiterhin mit dem Thema beschäftigt?
+## Warum habe ich mich weiterhin mit dem Thema beschäftigt?
 
 In jedem Handwerk steckt ganz viel Know-How. Zum Glück muss man viele Sachen nur
 einmalig am Anfang
@@ -292,7 +292,7 @@ schlichten Kerze für mich nicht rechtfertigen.
 
 Zusätzlich, habe ich mir ein weiteres Ziel gesetzt:
 
-### Ein Geschenk für einen Kollegen
+## Ein Geschenk für einen Kollegen
 
 Damit ich für meine Experimente mehr Motivation und ein Ziel habe, habe ich mir
 vorgenommen, eine schöne,

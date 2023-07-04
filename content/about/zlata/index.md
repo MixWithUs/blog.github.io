@@ -40,7 +40,7 @@ der Kosmetikherstellung autodidaktisch beizubringen. Heute versuche ich dich auf
 den Geschmack zu bringen, mitzumachen.
 Wo fange ich an?
 
-### Das Überangebot überfordert, der stolze Preis schreckt ab
+## Das Überangebot überfordert, der stolze Preis schreckt ab
 
 Kennst du auch dieses Gefühl vor dem Regal einer Drogerie zu stehen und
 Schwierigkeiten zu haben, sich ein
@@ -76,7 +76,7 @@ warum eine empfehlenswerte ‚grüne‘ Creme, die, warum auch immer, nur online
 erwerblich war, spürbar teurer war als ihre
 Cousine aus der Drogerie.
 
-### Hilfe, ich bin von wissenschaftsfundierten Gesichtspflegemittel-Werbespots heimgesucht worden!
+## Hilfe, ich bin von wissenschaftsfundierten Gesichtspflegemittel-Werbespots heimgesucht worden!
 
 Irgendwann wurde ich über soziale Medien von Kosmetikunternehmen mit deren
 geschalteter Werbung heimgesucht. Alle waren
@@ -106,7 +106,7 @@ Anti-Aging-Gesichtspflege eine Wirkung über den Placeboeffekt
 hinaus hat. Ich suche nämlich freiwillige Wissenschaftsbegeisterte, aber nicht
 sonderlich anspruchsvolle Tester.
 
-### Meine Quest hat begonnen
+## Meine Quest hat begonnen
 
 Wenn sie das schaffen, kann ich das auch? Kann ich sichere und effektive
 Kosmetik zu Hause herstellen, ohne dafür das
@@ -142,7 +142,7 @@ ethischen Vorstellungen und nach
 eigenen Bedürfnissen richten. Das Gefühl, die Kontrolle wieder in der eigenen
 Hand zu haben, ist unbeschreiblich gut.
 
-### Was musst du wissen, bevor du loslegen kannst?
+## Was musst du wissen, bevor du loslegen kannst?
 
 Wie bei jeder halbwegs interessanten Sache darf natürlich der Disclaimer nicht
 fehlen: Die Verantwortung liegt bei dir.
@@ -171,7 +171,7 @@ ein Bruchteil – und von den restlichen Fehlern lernen. Und bis du das Geschick
 des Formulierens erlernt hast, kannst du
 immer noch auf erprobte und optimierte Rezepte aus diesem Blog zurückgreifen.
 
-### Wie geht es weiter?
+## Wie geht es weiter?
 
 Im Laufe der nächsten Wochen, wird sich dieser Blog mit anderen Inhalten, wie
 Anfängerguides, Rohstoffportraits,

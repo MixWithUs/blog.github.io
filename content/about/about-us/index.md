@@ -32,7 +32,7 @@ Idee gekommen sind, unseren gemeinsamen Blog anzufangen. Wenn es dir heute nicht
 nach Geplapper ist, dann schau in
 unsere Rezepte und tob dich aus :wink:.
 
-### Zlata
+## Zlata
 
 Seit März 2022 habe ich angefangen, mit einigen Formeln herumzuspielen. Meine
 ersten Versuche waren verschiedenen
@@ -77,7 +77,7 @@ und wir freuen uns darauf, dir unsere Experimente vorzustellen.
 
 _Mehr zu [Zlata]({{< ref "about/zlata" >}})_
 
-### Yana
+## Yana
 
 Zlata und ich haben uns bei der Arbeit kennengelernt. Ich habe selten solch
 einen neugierigen, intelligenten und

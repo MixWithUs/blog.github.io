@@ -1,7 +1,7 @@
 ---
 title: "Über uns"
 date: 2023-03-05
-description: "About us."
+description: "Wer wir sind."
 summary: "Wer wir sind."
 draft: false
 slug: "about"

@@ -2,24 +2,8 @@
 title: "Über Yana"
 date: 2023-04-14
 draft: false
-description: "Willkommen in der Welt der selbstgemachten Kosmetik und Kerzen!
-Ich bin Yana, eine Software-Entwicklerin mit Leidenschaft für Biologie und
-Chemie. Gemeinsam mit Zlata teile ich auf unserem Blog Anleitungen, Rezepte und
-Erkenntnisse zu DIY-Kosmetik und Kerzen. Erfahre, wie du hochwertige und
-vegane Produkte selbst herstellen kannst, entdecke die Grundlagen,
-und lerne tolle Rezepte kennen. Zusammen erkunden
-wir die Welt der Pflege-Kosmetik und des
-Kerzengießens. Lass dich inspirieren und teile deine Kommentare mit uns. Ich
-freue mich auf dich!"
-summary: "Willkommen in der Welt der selbstgemachten Kosmetik und Kerzen!
-Ich bin Yana, eine Software-Entwicklerin mit Leidenschaft für Biologie und
-Chemie. Gemeinsam mit Zlata teile ich auf unserem Blog Anleitungen, Rezepte und
-Erkenntnisse zu DIY-Kosmetik und Kerzen. Erfahre, wie du hochwertige und
-vegane Produkte selbst herstellen kannst, entdecke die Grundlagen,
-und lerne tolle Rezepte kennen. Zusammen erkunden
-wir die Welt der Pflege-Kosmetik und des
-Kerzengießens. Lass dich inspirieren und teile deine Kommentare mit uns. Ich
-freue mich auf dich!"
+description: "Lerne Yana kennen — eine ehemalige Bio-Informatikstudentin, die ihre Begeisterung für Chemie und Biologie nie verloren hat. Begleite sie auf ihrer faszinierenden Reise durch die Welt der Kosmetikherstellung und des Kerzengießens und entdecke gemeinsam Lösungen für knifflige Fragestellungen."
+summary: "Lerne Yana kennen — eine ehemalige Bio-Informatikstudentin, die ihre Begeisterung für Chemie und Biologie nie verloren hat. Begleite sie auf ihrer faszinierenden Reise durch die Welt der Kosmetikherstellung und des Kerzengießens und entdecke gemeinsam Lösungen für knifflige Fragestellungen."
 author: "Yana"
 slug: "about-yana"
 tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",

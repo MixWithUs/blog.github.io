@@ -1,19 +1,7 @@
 ---
 title: "Warum wir Marzipan so lieben"
-description: "Willkommen in unserer Welt der selbstgemachten Kosmetik und
-Kerzenherstellung! Auf unserem Blog teilen wir mit Begeisterung unsere
-Erfahrungen, Rezepte und Geheimnisse, während wir uns in eine neue Dimension von
-Kreativität und Natürlichkeit wagen. Tauche ein und lerne, wie wir hochwertige
-Produkte herstellen und warum uns schadstofffreie Inhaltsstoffe besonders am
-Herzen liegen. Begleite uns auf dieser spannenden Entdeckungsreise und finde
-Inspiration für deine eigenen DIY-Kosmetik- und Kerzenprojekte."
-summary: "Willkommen in unserer Welt der selbstgemachten Kosmetik und
-Kerzenherstellung! Auf unserem Blog teilen wir mit Begeisterung unsere
-Erfahrungen, Rezepte und Geheimnisse, während wir uns in eine neue Dimension von
-Kreativität und Natürlichkeit wagen. Tauche ein und lerne, wie wir hochwertige
-Produkte herstellen und warum uns schadstofffreie Inhaltsstoffe besonders am
-Herzen liegen. Begleite uns auf dieser spannenden Entdeckungsreise und finde
-Inspiration für deine eigenen DIY-Kosmetik- und Kerzenprojekte."
+description: "Willkommen in der Welt von selbstgemachter Kosmetik und Kerzen! Erfahre, warum Yana und Zlata ihre Kosmetik und Kerzen selbst herstellen und lerne die Hintergründe ihres außergewöhnlichen Hobbys sowie die Background-Story ihres Blogs kennen."
+summary: "Willkommen in der Welt von selbstgemachter Kosmetik und Kerzen! Erfahre, warum Yana und Zlata ihre Kosmetik und Kerzen selbst herstellen und lerne die Hintergründe ihres außergewöhnlichen Hobbys sowie die Background-Story ihres Blogs kennen."
 showDateUpdated: true
 date: 2023-04-14
 draft: false

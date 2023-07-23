@@ -2,16 +2,8 @@
 title: "Eine Kerze für Malte"
 date: "2023-05-14"
 draft: false
-description: "Ich freue mich dir eine meinen ersten selbstgemachten Kerzen
-vorzustellen. Vor dem Gießen der schlichten Kontainerkerze habe ich einiges an
-Erfahrungen gesammelt und verschiedene Techniken erforscht, damit mir eine
-Kerze gelingt. Diese Tricks möchte ich mit dir teilen. Die Kerze ist vegan und
-umweltfreundlich."
-summary: "Ich freue mich dir eine meinen ersten selbstgemachten Kerzen
-vorzustellen. Vor dem Gießen der schlichten Kontainerkerze habe ich einiges an
-Erfahrungen gesammelt und verschiedene Techniken erforscht, damit mir eine
-Kerze gelingt. Diese Tricks möchte ich mit dir teilen. Die Kerze ist vegan und
-umweltfreundlich."
+description: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerze! Ihre wertvollen Erfahrungen und die Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und erstaunlich einfach herzustellen."
+summary: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerze! Ihre wertvollen Erfahrungen und die Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und erstaunlich einfach herzustellen."
 slug: "candle-for-malte"
 tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
 "veganeKerzen", "DIYKerzen", "Kerzenherstellung",

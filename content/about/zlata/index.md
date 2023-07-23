@@ -2,28 +2,8 @@
 title: "Über Zlata"
 date: "2023-04-14"
 draft: false
-description: "Willkommen, ich bin Zlata! Entdecke mit mir die Welt der
-selbstgemachten Kosmetik und Kerzen! Als
-autodidaktische Kosmetikherstellerin teile ich meine Erfahrungen, Rezepte und
-Erkenntnisse auf unserem Blog. Lass dich von meiner Leidenschaft für
-hochwertige, schadstofffreie Produkte inspirieren und finde Anleitungen für
-DIY-Kosmetik und Kerzenprojekte. Kein Chemiestudium erforderlich – gemeinsam
-lernen wir die
-Grundlagen, konservieren Produkte richtig und setzen den pH-Wert. Werde Teil
-unserer kreativen Reise und erlebe die Freude und Kontrolle, die selbstgemachte
-Kosmetik bietet. Zusammen erkunden wir die Welt der Pflege-Kosmetik und des
-Kerzengießens."
-summary: "Willkommen, ich bin Zlata! Entdecke mit mir die Welt der
-selbstgemachten Kosmetik und Kerzen! Als
-autodidaktische Kosmetikherstellerin teile ich meine Erfahrungen, Rezepte und
-Erkenntnisse auf unserem Blog. Lass dich von meiner Leidenschaft für
-hochwertige, schadstofffreie Produkte inspirieren und finde Anleitungen für
-DIY-Kosmetik und Kerzenprojekte. Kein Chemiestudium erforderlich – gemeinsam
-lernen wir die
-Grundlagen, konservieren Produkte richtig und setzen den pH-Wert. Werde Teil
-unserer kreativen Reise und erlebe die Freude und Kontrolle, die selbstgemachte
-Kosmetik bietet. Zusammen erkunden wir die Welt der Pflege-Kosmetik und des
-Kerzengießens."
+description: "Tauche ein in die faszinierende Welt der autodidaktischen Kosmetikherstellung und lasse dich von Zlatas inspirierendem Weg zur Herstellung hochwertiger und maßgeschneiderter Produkte begeistern."
+summary: "Tauche ein in die faszinierende Welt der autodidaktischen Kosmetikherstellung und lasse dich von Zlatas inspirierendem Weg zur Herstellung hochwertiger und maßgeschneiderter Produkte begeistern."
 author: "Zlata"
 slug: "about-zlata"
 tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",

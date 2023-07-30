@@ -1,10 +1,10 @@
 ---
 title: "Kosmetik"
 date: 2023-03-17
-description: "Our blog."
+description: "Selbstgemachte natürliche vegane Kosmetik. Für Anfänger und Fortgeschrittene. Viele Rezepte zum Stöbern und Nachmachen. Entdecke kreative und simple Formeln und ausführliche Anleitungen."
 draft: false
 slug: "cosmetics"
-tags: ["cosmetics"]
+tags: ["cosmetics", "kosmetik"]
 
 cascade:
   showDate: true

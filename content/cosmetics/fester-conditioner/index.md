@@ -95,12 +95,6 @@ Unser Ansatz war es, die Formel zu vereinfachen und ihr einen einzigartigen Duft
 
 Viel Spaß beim Nachmachen!
 
-
-
-
-
-
-
-
-
-
+<div class="text-signature-zlata">
+Zlata
+</div>

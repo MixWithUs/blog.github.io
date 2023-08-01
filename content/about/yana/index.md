@@ -126,3 +126,7 @@ Pflege-Kosmetik und des Kerzengießens entdecken. Ich
 freue mich auf dich und deine Kommentare auf
 unserer [Instagram-Seite für Kosmetik](https://instagram.com/mix_with_us)
 und  [Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).
+
+<div class="text-signature-yana">
+Yana
+</div>

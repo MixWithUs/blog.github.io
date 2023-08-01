@@ -2,8 +2,12 @@
 title: "Eine Kerze für Malte"
 date: "2023-05-14"
 draft: false
-description: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerze! Ihre wertvollen Erfahrungen und die Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und erstaunlich einfach herzustellen."
-summary: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerze! Ihre wertvollen Erfahrungen und die Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und erstaunlich einfach herzustellen."
+description: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerze! Ihre wertvollen Erfahrungen und
+die Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und
+erstaunlich einfach herzustellen."
+summary: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerze! Ihre wertvollen Erfahrungen und die
+Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und
+erstaunlich einfach herzustellen."
 slug: "candle-for-malte"
 tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
 "veganeKerzen", "DIYKerzen", "Kerzenherstellung",
@@ -12,7 +16,7 @@ tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
 thumbnail: luckyBeetle2.jpg
 ---
 
-## Eine Kerze für Malte
+[//]: # (## Eine Kerze für Malte)
 
 Hallo lieber Mensch,
 
@@ -94,7 +98,7 @@ einem kleinen runden Klebesticker befestigen.
 <div class="image-container">
 
 
-![ral](dochthalter.jpg)
+![docht](dochthalter.jpg)
 
 
 </div>
@@ -138,7 +142,7 @@ oder andere Zusätze reinmischt, muss man das Wachs nicht bis zur maximalen
 Temperatur erhitzen.
 
 {{< alert >}}
-Vorsicht, Verbrennungsgefahr! Geschmolzener Wachs ist eine heiße Sache und damit
+Vorsicht, Verbrennungsgefahr! Geschmolzenes Wachs ist eine heiße Sache und damit
 musst du achtsam umgehen
 {{< /alert >}}
 
@@ -170,7 +174,7 @@ Wachs gleichmäßig abkühlen.
 
 <div class="image-container">
 
-![ral](inci.jpg)
+![inci](inci.jpg)
 
 </div>
 
@@ -207,7 +211,7 @@ Jetzt kann der Glückskäfer auf der ersten Schicht platziert werden.
 
 <div class="image-container">
 
-![ral](step1.jpg)
+![step1](step1.jpg)
 
 </div>
 
@@ -225,7 +229,7 @@ Die Kerze ist fertig! Viel Spass beim Ausprobieren 😉
 
 <div class="image-container">
 
-![ral](result.jpg)
+![result](result.jpg)
 
 </div>
 
@@ -238,5 +242,8 @@ teilt 😅
 Auf Dekorationen und stimmungsvolle Akzente legt Malte nicht sehr viel Wert. Der
 🐞 war trotzdem eine schöne
 Überraschung für ihn. Hoffentlich sorgt die Kerze bei Malte weiterhin für gute
-Stimmung und erinnert ihn an
-unser Team :heart:
+Stimmung und erinnert ihn an unser Team :heart:
+
+<div class="text-signature-yana">
+Yana
+</div>

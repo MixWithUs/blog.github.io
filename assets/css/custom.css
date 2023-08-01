@@ -19,3 +19,15 @@
     margin-left: 1.25em;
     margin-bottom: 1.25em;
 }
+
+.text-signature-yana {
+    font-family: Chalkduster, serif;
+    font-size: large;
+    float: right;
+}
+
+.text-signature-zlata {
+    font-family: Chalkduster, serif;
+    font-size: large;
+    float: right;
+}

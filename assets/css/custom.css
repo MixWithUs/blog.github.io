@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 .image-container-5 img {
     max-width: 5%;
     float: left;
@@ -21,8 +23,8 @@
 }
 
 .text-signature-yana {
-    font-family: Chalkduster, serif;
-    font-size: large;
+    font-family: DianaWebber-Script-Solid, serif;
+    font-size: 60px;
     float: right;
 }
 
@@ -30,4 +32,32 @@
     font-family: Chalkduster, serif;
     font-size: large;
     float: right;
+}
+
+/* ----------------- FONTS ----------------- */
+@font-face {
+    font-family: "HelloAugust";
+    src:
+    url('/fonts/hello-august/woff2/hello-august-hello-august-400.woff2') format('woff2'),
+    url('/fonts/hello-august/woff/hello-august-hello-august-400.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DianaWebber-Script-Solid";
+    src:
+    url('/fonts/diana-webber/woff2/diana-webber-diana-webber-script-solid-400.woff2') format('woff2'),
+    url('/fonts/diana-webber/woff/diana-webber-diana-webber-script-solid-400.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DianaWebber-Script-Brush";
+    src:
+    url('/fonts/diana-webber/woff2/diana-webber-diana-webber-script-brush-400.woff2') format('woff2'),
+    url('/fonts/diana-webber/woff/diana-webber-diana-webber-script-brush-400.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }

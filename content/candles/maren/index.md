@@ -1,5 +1,5 @@
 ---
-title: "Eine Kerze zum Geburtstag, oder wie man gleichzeitig Enttäuschung und Begeisterung hervorrufen kann"
+title: "Eine Geburtstagskerze: wie man gleichzeitig Begeisterung und Enttäuschung hervorrufen kann"
 date: "2023-08-01"
 draft: false
 description: "Begleite Yana beim Herstellen ihrer Törtchenkerze! Die Kerze ist vegan, umweltfreundlich und
@@ -183,7 +183,7 @@ Tatsächlich hätte ich es schön gefunden, falls diese Kerze einen leckeren Duf
 Die Kerze sieht sehr appetitlich aus, und die Tatsache, dass sie keinen entsprechenden Geruch abgibt,
 ist ein wenig irritierend. Es liegt ein Beispiel für die kognitive Dissonanz vor. ¯\\\_(ツ)_/¯
 
-Stolz habe ich Maren mein Kerzentörtchen präsentiert. Maren ist eine Person, die sowohl Kerzen, als auch schöne 
+Stolz habe ich Maren mein Kerzentörtchen präsentiert. Maren ist eine Person, die sowohl Kerzen, als auch schöne
 Törtchen
 mag, daher war ihre Begeisterung vorprogrammiert. Was soll ich sagen: ich mag es sehr, wenn
 meine Geschenke Freude bereiten. Darauf folgender Lob schmeichelt meinem Ego und lässt mich auch sehr gut

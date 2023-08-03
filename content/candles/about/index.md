@@ -317,3 +317,6 @@ habe, schau in den
 rein, in dem ich das Herstellungsverfahren dazu beschreibe.
 
 [Unsere Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).
+
+
+{{< signature_yana >}}

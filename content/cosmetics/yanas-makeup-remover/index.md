@@ -167,6 +167,4 @@ welches uns vor Enttäuschungen in Form eines verdorbenen Produktes und unerwün
 
 Für weitere Hintergrundinformationen kannst du dir unsere Rohstoffportraits anschauen. Viel Spaß beim Nachmachen!
 
-<div class="text-signature-zlata">
-Zlata
-</div>
+{{< signature_zlata >}}

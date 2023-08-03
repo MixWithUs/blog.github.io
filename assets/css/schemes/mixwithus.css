@@ -1,0 +1,37 @@
+/* MixWithUs scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Night */
+  --color-neutral-50: 214, 237, 227;
+  --color-neutral-100: 201, 228, 219;
+  --color-neutral-200: 189, 218, 212;
+  --color-neutral-300: 155, 196, 193;
+  --color-neutral-400: 128, 174, 175;
+  --color-neutral-500: 107, 147, 153;
+  --color-neutral-600: 90, 121, 131;
+  --color-neutral-700: 75, 98, 109;
+  --color-neutral-800: 62, 76, 87;
+  --color-neutral-900: 48, 56, 65;
+  /* Yellow */
+  --color-primary-50: 252, 241, 197;
+  --color-primary-100: 252, 234, 159;
+  --color-primary-200: 178, 176, 108;
+  --color-primary-300: 188, 183, 99;
+  --color-primary-400: 198, 189, 89;
+  --color-primary-500: 207, 194, 77;
+  --color-primary-600: 217, 197, 64;
+  --color-primary-700: 227, 200, 49;
+  --color-primary-800: 236, 201, 32;
+  --color-primary-900: 246, 201, 14;
+  /* Green */
+  --color-secondary-50: 241, 233, 209;
+  --color-secondary-100: 215, 228, 181;
+  --color-secondary-200: 177, 209, 148;
+  --color-secondary-300: 138, 191, 123;
+  --color-secondary-400: 103, 172, 105;
+  --color-secondary-500: 87, 154, 106;
+  --color-secondary-600: 75, 135, 107;
+  --color-secondary-700: 64, 117, 105;
+  --color-secondary-800: 55, 97, 98;
+  --color-secondary-900: 46, 71, 80;
+}

@@ -244,6 +244,5 @@ Auf Dekorationen und stimmungsvolle Akzente legt Malte nicht sehr viel Wert. Der
 Überraschung für ihn. Hoffentlich sorgt die Kerze bei Malte weiterhin für gute
 Stimmung und erinnert ihn an unser Team :heart:
 
-<div class="text-signature-yana">
-Yana
-</div>
+
+{{< signature_yana >}}

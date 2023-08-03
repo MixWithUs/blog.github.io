@@ -194,6 +194,4 @@ für Verzehr ist dieses Törtchen nicht geeignet 😉
 
 
 
-<div class="text-signature-yana">
-Yana
-</div>
+{{< signature_yana >}}

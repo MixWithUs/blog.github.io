@@ -43,7 +43,7 @@ Vielen Dank an Alexmo für dieses wunderbare Rezept! Ihr habt bereits herausgefu
 | Natriumlaktat 60%ig | 31.5% |
 | Milchsäure 80%ig | 18.5% |
 
-Das Originalrezept ist ein reichhaltiger fester Conditioner, der einen sanften und cremigen Film auf den Haaren hinterlässt. Er sorgt für eine verbesserte Kämmbarkeit,  die Haare wirken nach der Anwendung weich und geschmeidig. Die Mischung des Conditioners Green und Montanov™ 82 MB in Kombination mit einem hohen Öl- und Butteranteil sorgt für diese angenehme Konsistenz und pflegende Wirkung. Conditioner Green wirkt dabei konditionierend, und durch die Zugabe einer Pufferlösung wird der pH-Wert reguliert, um seine Wirkung optimal zu entfalten.
+Das Originalrezept ist ein reichhaltiger [fester Conditioner](https://www.alexmo-cosmetics.de/Rezeptwelt/Conditioner-Bar), der einen sanften und cremigen Film auf den Haaren hinterlässt. Er sorgt für eine verbesserte Kämmbarkeit,  die Haare wirken nach der Anwendung weich und geschmeidig. Die Mischung des Conditioners Green und Montanov™ 82 MB in Kombination mit einem hohen Öl- und Butteranteil sorgt für diese angenehme Konsistenz und pflegende Wirkung. Conditioner Green wirkt dabei konditionierend, und durch die Zugabe einer Pufferlösung wird der pH-Wert reguliert, um seine Wirkung optimal zu entfalten.
 
 ## Fester Conditioner, der II. von MixWithUs
 
@@ -95,6 +95,4 @@ Unser Ansatz war es, die Formel zu vereinfachen und ihr einen einzigartigen Duft
 
 Viel Spaß beim Nachmachen!
 
-<div class="text-signature-zlata">
-Zlata
-</div>
+{{< signature_zlata >}}

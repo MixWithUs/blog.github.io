@@ -1,6 +1,6 @@
 ---
 title: "Kerzen"
-description: "Our blog."
+description: "Wir machen Kosmetik & Kerzen."
 
 cascade:
   showDate: true

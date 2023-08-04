@@ -18,12 +18,12 @@
 [[main]]
     name = "Kosmetik"
     pageRef = "cosmetics"
-    weight = 20
+    weight = 10
 
 [[main]]
     name = "Kerzen"
     pageRef = "candles"
-    weight = 30
+    weight = 20
 
 #[[main]]
 #  name = "Studien"
@@ -33,7 +33,7 @@
 [[main]]
     name = "Über uns"
     pageRef = "about"
-    weight = 50
+    weight = 30
 
 [[main]]
     name = "Impressum"

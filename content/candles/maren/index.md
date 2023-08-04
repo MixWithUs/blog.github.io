@@ -1,11 +1,11 @@
 ---
-title: "Eine Geburtstagskerze: wie man gleichzeitig Begeisterung und Enttäuschung hervorrufen kann"
+title: "Eine Geburtstagskerze: Freude und Enttäuschung zugleich."
 date: "2023-08-01"
 draft: false
 description: "Begleite Yana beim Herstellen ihrer Törtchenkerze! Die Kerze ist vegan, umweltfreundlich und
-mega appetitlich"
+mega appetitlich."
 summary: "Begleite Yana beim Herstellen ihrer Törtchenkerze! Die Kerze ist vegan, umweltfreundlich und
-mega appetitlich"
+mega appetitlich."
 slug: "candle-for-maren"
 tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
 "veganeKerzen", "DIYKerzen", "Kerzenherstellung",
@@ -13,8 +13,6 @@ tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
 
 thumbnail: thumb.jpg
 ---
-
-## Eine Kerze zum Geburtstag
 
 Schön dich hier zu sehen!
 

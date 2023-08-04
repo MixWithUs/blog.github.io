@@ -11,6 +11,7 @@ cascade:
   showEdit: false
   showSummary: true
   showHeadingAnchors: true
+  invertPagination: false
 ---
 
 --------------

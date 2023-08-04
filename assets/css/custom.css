@@ -21,9 +21,9 @@
 }
 
 .text-signature-yana {
-    font-family: Chalkduster, serif;
-    font-size: large;
+    /*background-image: url('/signatures/signature_yana.svg');*/
     float: right;
+    margin-bottom: 1.50em;
 }
 
 .text-signature-zlata {

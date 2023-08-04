@@ -193,5 +193,4 @@ Die Begeisterung wurde durch eine kleine Enttäuschung begleitet: auch wenn mein
 für Verzehr ist dieses Törtchen nicht geeignet 😉
 
 
-
-{{< signature_yana >}}
+<div class="signature-yana"></div>

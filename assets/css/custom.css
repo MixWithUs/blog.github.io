@@ -20,10 +20,10 @@
     margin-bottom: 1.25em;
 }
 
-.text-signature-yana {
-    font-family: Chalkduster, serif;
-    font-size: large;
+.signature-yana {
+    content: url('/signatures/signature_yana.svg');
     float: right;
+    margin-bottom: 1.50em;
 }
 
 .text-signature-zlata {

@@ -15,9 +15,7 @@ keine eigenen Kerzen herstellen möchtest.
 Schau rein und entdecke wichtige Informationen zur Auswahl sicherer Wachse,
 passender Dochtmaterialien und unbedenklicher Farbstoffe."
 slug: "candles"
-tags:  ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
-"veganeKerzen", "DIYKerzen", "Kerzenherstellung",
-"nachhaltig","umweltfreundlich", "selbstgemacht","handgemachteKerzen"]
+tags:  ["theorie"]
 ---
 
 Hallo lieber Mensch,

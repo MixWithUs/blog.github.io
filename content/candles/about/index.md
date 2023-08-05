@@ -2,18 +2,8 @@
 title: "Kerzenlicht und Harmonie?"
 date: 2023-05-10
 draft: false
-description: "Warum sind die Kerzen für uns ein Thema?
-Erfahre in diesem Artikel, warum es von Bedeutung ist, sich für qualitativ
-hochwertige und schadstofffreie Kerzen zu interessieren, selbst wenn du (noch)
-keine eigenen Kerzen herstellen möchtest.
-Schau rein und entdecke wichtige Informationen zur Auswahl sicherer Wachse,
-passender Dochtmaterialien und unbedenklicher Farbstoffe."
-summary: "Warum sind die Kerzen für uns ein Thema? Erfahre in diesem Artikel,
-warum es von Bedeutung ist, sich für qualitativ
-hochwertige und schadstofffreie Kerzen zu interessieren, selbst wenn du (noch)
-keine eigenen Kerzen herstellen möchtest.
-Schau rein und entdecke wichtige Informationen zur Auswahl sicherer Wachse,
-passender Dochtmaterialien und unbedenklicher Farbstoffe."
+description: "In diesem Artikel erfährst du, warum qualitativ hochwertige und schadstofffreie Kerzen wichtig sind, selbst wenn du keine eigenen Kerzen herstellen möchtest. Entdecke relevante Informationen über sichere Wachse, Dochtmaterialien und Farbstoffe."
+summary: "In diesem Artikel erfährst du, warum qualitativ hochwertige und schadstofffreie Kerzen wichtig sind, selbst wenn du keine eigenen Kerzen herstellen möchtest. Entdecke relevante Informationen über sichere Wachse, Dochtmaterialien und Farbstoffe."
 slug: "candles"
 tags:  ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
 "veganeKerzen", "DIYKerzen", "Kerzenherstellung",

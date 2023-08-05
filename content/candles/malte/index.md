@@ -9,9 +9,7 @@ summary: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerz
 Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und
 erstaunlich einfach herzustellen."
 slug: "candle-for-malte"
-tags: ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
-"veganeKerzen", "DIYKerzen", "Kerzenherstellung",
-"nachhaltig","umweltfreundlich", "selbstgemacht","handgemachteKerzen"]
+tags: ["container-kerze", "schlicht"]
 
 thumbnail: luckyBeetle2.jpg
 ---

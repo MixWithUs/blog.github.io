@@ -1,17 +1,16 @@
 ---
 title: "Impressum"
 description: "Impressum"
-date: 2023-03-05
+layout: page
 
 cascade:
-  showDate: true
+  showDate: false
   showAuthor: true
-  showSummary: true
+  showSummary: false
   invertPagination: true
   showTaxonomies: false
   showReadingTime: false
 
-tags: ["impressum"]
 ---
 ## Angaben gemäß § 5 TMG
 Zlata Neshko <br/>

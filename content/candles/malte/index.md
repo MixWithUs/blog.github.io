@@ -11,7 +11,7 @@ erstaunlich einfach herzustellen."
 slug: "candle-for-malte"
 tags: ["container-kerze", "schlicht"]
 
-thumbnail: luckyBeetle2.jpg
+thumbnail: malte_kerze_small.jpg
 ---
 
 [//]: # (## Eine Kerze für Malte)

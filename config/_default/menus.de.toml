@@ -36,14 +36,19 @@
     weight = 30
 
 [[main]]
-    name = "Impressum"
-    pageRef = "impressum"
-    weight = 60
+  name = "Instagram"
+  url = "https://www.instagram.com/mix_with_us/"
+  weight = 50
+  [main.params]
+    icon = "instagram"
+    showName = false
+    target = "_blank"
+
 
 [[main]]
     identifier = "search"
     weight = 99
-[main.params]
+	[main.params]
     action = "search"
 
 # -- Footer Menu --
@@ -51,6 +56,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-    name = "Über uns"
-    pageRef = "about"
-    weight = 10
+  name = "Impressum"
+  pageRef = "impressum"
+
+[[footer]]
+  name = "Datenschutzerklärung"
+  pageRef = "privacy_policy"
+

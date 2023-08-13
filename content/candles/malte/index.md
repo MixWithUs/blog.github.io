@@ -243,4 +243,6 @@ Auf Dekorationen und stimmungsvolle Akzente legt Malte nicht sehr viel Wert. Der
 Stimmung und erinnert ihn an unser Team :heart:
 
 
-<div class="signature-yana"></div>
+<div class="signature-right">
+{{< signature_yana >}}
+</div>

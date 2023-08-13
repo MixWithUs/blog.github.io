@@ -6,8 +6,7 @@ description: "Lerne Yana kennen — eine ehemalige Bio-Informatikstudentin, die 
 summary: "Lerne Yana kennen — eine ehemalige Bio-Informatikstudentin, die ihre Begeisterung für Chemie und Biologie nie verloren hat. Begleite sie auf ihrer faszinierenden Reise durch die Welt der Kosmetikherstellung und des Kerzengießens und entdecke gemeinsam Lösungen für knifflige Fragestellungen."
 author: "Yana"
 slug: "about-yana"
-tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",
-"Seifen", "vegan", "natürlich", "kreativ", "Selbstrührer", "mixing", "Yana"]
+tags: ["about us", "Yana"]
 ---
 
 ## Willkommen in die neue bessere Welt
@@ -127,4 +126,6 @@ freue mich auf dich und deine Kommentare auf
 unserer [Instagram-Seite für Kosmetik](https://instagram.com/mix_with_us)
 und  [Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).
 
-<div class="signature-yana"></div>
+<div class="signature-right">
+{{< signature_yana >}}
+</div>

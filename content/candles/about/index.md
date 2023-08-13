@@ -5,9 +5,7 @@ draft: false
 description: "In diesem Artikel erfährst du, warum qualitativ hochwertige und schadstofffreie Kerzen wichtig sind, selbst wenn du keine eigenen Kerzen herstellen möchtest. Entdecke relevante Informationen über sichere Wachse, Dochtmaterialien und Farbstoffe."
 summary: "In diesem Artikel erfährst du, warum qualitativ hochwertige und schadstofffreie Kerzen wichtig sind, selbst wenn du keine eigenen Kerzen herstellen möchtest. Entdecke relevante Informationen über sichere Wachse, Dochtmaterialien und Farbstoffe."
 slug: "candles"
-tags:  ["candles", "Kerzen", "vegan", "kreativ", "diy", "rezept",
-"veganeKerzen", "DIYKerzen", "Kerzenherstellung",
-"nachhaltig","umweltfreundlich", "selbstgemacht","handgemachteKerzen"]
+tags:  ["theorie"]
 ---
 
 Hallo lieber Mensch,
@@ -308,4 +306,7 @@ rein, in dem ich das Herstellungsverfahren dazu beschreibe.
 
 [Unsere Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).
 
-<div class="signature-yana"></div>
+
+<div class="signature-right">
+{{< signature_yana >}}
+</div>

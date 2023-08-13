@@ -10,11 +10,6 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "blog"
-#  weight = 10
-
 [[main]]
     name = "Kosmetik"
     pageRef = "cosmetics"
@@ -25,25 +20,16 @@
     pageRef = "candles"
     weight = 20
 
-#[[main]]
-#  name = "Studien"
-#  pageRef = "case-studies"
-#  weight = 40
-
 [[main]]
     name = "Über uns"
     pageRef = "about"
     weight = 30
 
-[[main]]
-    name = "Impressum"
-    pageRef = "impressum"
-    weight = 60
 
 [[main]]
     identifier = "search"
     weight = 99
-[main.params]
+	[main.params]
     action = "search"
 
 # -- Footer Menu --
@@ -51,6 +37,29 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-    name = "Über uns"
-    pageRef = "about"
-    weight = 10
+  name = "Impressum"
+  pageRef = "impressum"
+  weight = 10
+
+[[footer]]
+  name = "Datenschutzerklärung"
+  pageRef = "privacy_policy"
+  weight = 20
+  
+[[footer]]
+  name = "Kosmetik"
+  url = "https://www.instagram.com/mix_with_us/"
+  weight = 80
+  [footer.params]
+    icon = "instagram"
+    showName = true
+    target = "_blank" 
+
+[[footer]]
+  name = "Kerzen"
+  url = "https://www.instagram.com/mix_with_us_candles/"
+  weight = 90
+  [footer.params]
+    icon = "instagram"
+    showName = true
+    target = "_blank"

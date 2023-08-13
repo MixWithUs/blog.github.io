@@ -5,8 +5,7 @@ draft: false
 description: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Make Up Remover. Entdecke zwei Formeln, Zutatenportraits, Anleitungen und Konservierungstipps."
 summary: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Make Up Remover. Entdecke zwei Formeln, Zutatenportraits, Anleitungen und Konservierungstipps."
 slug: "marzipan-makeup-remover"
-tags: ["cosmetics", "Kosmetik", "vegan", "natürlich", "kreativ", "Make-up", 
-"Remover", "Selbstrührer", "mixing", "Rezept", "recipe"]
+tags: ["make-up-remover", "butter"]
 
 # will pick either 'thumbnail' field and fallback to whatever image has `thumb` in the name
 # thumbnail: thumb.jpg

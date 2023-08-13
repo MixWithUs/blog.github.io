@@ -5,7 +5,7 @@ draft: false
 description: "Wie wäre es mit einem fester Conditioner für deinen hübschen Krauskopf? Lerne, wie du einen Conditioner leicht eigenständig herstellen und die Produktformel anpasssen kannst."
 summary: "Wie wäre es mit einem fester Conditioner für deinen hübschen Krauskopf? Lerne, wie du einen Conditioner leicht eigenständig herstellen und die Produktformel anpasssen kannst."
 slug: "fester-conditioner"
-tags: ["Kosmetik", "ConditionerBar", "Conditioner", "Rezept", "selbstgemacht", "vegan", "natürlich"]
+tags: ["conditioner-bar"]
 
 # will pick either 'thumbnail' field and fallback to whatever image has `thumb` in the name
 # thumbnail: thumb.jpg

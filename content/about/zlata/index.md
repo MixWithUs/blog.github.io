@@ -6,8 +6,7 @@ description: "Tauche ein in die faszinierende Welt der autodidaktischen Kosmetik
 summary: "Tauche ein in die faszinierende Welt der autodidaktischen Kosmetikherstellung und lasse dich von Zlatas inspirierendem Weg zur Herstellung hochwertiger und maßgeschneiderter Produkte begeistern."
 author: "Zlata"
 slug: "about-zlata"
-tags: ["about us", "cosmetics", "candles", "soaps", "Kosmetik", "Kerzen",
-"Seifen", "vegan", "natürlich", "kreativ", "Selbstrührer", "mixing", "Zlata"]
+tags: ["about us", "Zlata"]
 ---
 
 ## Kosmetikherstellung ist ein Handwerk kein Hexenwerk

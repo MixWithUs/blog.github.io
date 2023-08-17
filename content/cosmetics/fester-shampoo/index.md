@@ -7,8 +7,6 @@ summary: "Wie wäre es mit einem selbstgemachten, natürlichen und zart-duftende
 slug: "festes-shampoo"
 tags: ["shampoo-bar"]
 
-# will pick either 'thumbnail' field and fallback to whatever image has `thumb` in the name
-# thumbnail: thumb.jpg
 ---
 
 Hey du,
@@ -67,7 +65,7 @@ Du brauchst
 ![Knetmasse in der Silikonform](DSCF1682.jpg)
 12. Am nächsten Tag kannst du die Shampoo-Bars aus der Silikonform entnehmen. Sie benötigen 4 bis 5 weitere Tage an einem trockenen lichtgeschützten Ort, um ihre Endkonsistenz zu erreichen.
 
-### Nachwort
+## Nachwort
 
 Die Umsetzung dieses Projekts hat sich als anspruchsvoller herausgestellt als gedacht, aber die Erfahrung war äußerst lohnend. Falls du unserem Instagram-Account folgst, hast du sicherlich schon Einblicke in unsere wichtigsten Lektionen erhalten. Dort halten wir dich auch über kommende spannende Projekte auf dem Laufenden. Deine Unterstützung und Interaktion sind für uns von unschätzbarem Wert, wir freuen uns über dein konstruktives Feedback. Und, wie gewöhnlich … Viel Spaß beim Nachmachen!
 

@@ -90,7 +90,7 @@ Du brauchst
 
 Um den Conditioner-Bar optimal anzuwenden, kannst du ihn leicht unter warmem Wasser erwärmen, während du duscht. Dies macht die Handhabung beim Auftragen einfacher. Massiere den Conditioner-Bar in die Haarlängen bis in die Spitzen ein. Bei Haaren, die nicht schnell fettig werden, kannst du das Conditioner-Bar auch behutsam in den Haaransatz einarbeiten. Anschließend lasse ihn trocknen, am besten auf einer Ablage fern von Wasser und Feuchtigkeit.
 
-### Nachwort 
+## Nachwort 
 Unser Ansatz war es, die Formel zu vereinfachen und ihr einen einzigartigen Duft zu verleihen, indem wir uns für eine natürliche Beduftungsstrategie entschieden haben. Dabei möchten wir dich nicht nur zum Ausprobieren bewegen, sondern auch zeigen, wie du die Formel an deine eigenen Vorräte und individuellen Bedürfnisse anpassen kannst. Es war uns wichtig, dass du neben dem Ergebnis auch etwas Neues dazulernst und so deinen ganz persönlichen Conditioner-Bar erschaffen kannst.
 
 Viel Spaß beim Nachmachen!

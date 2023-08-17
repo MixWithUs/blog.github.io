@@ -7,8 +7,6 @@ summary: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Mak
 slug: "marzipan-makeup-remover"
 tags: ["make-up-remover", "butter"]
 
-# will pick either 'thumbnail' field and fallback to whatever image has `thumb` in the name
-# thumbnail: thumb.jpg
 ---
 
 
@@ -162,7 +160,7 @@ dass das Produkt ein hervorragendes Milieu für Schimmel, Pilze und Bakterien bi
 züchten wollen, sind wir darauf angewiesen, im Rahmen dieser Formel ein sicheres Konservierungssystem einzusetzen,
 welches uns vor Enttäuschungen in Form eines verdorbenen Produktes und unerwünschten Hautreaktionen bewahrt.
 
-### Nachwort
+## Nachwort
 
 Für weitere Hintergrundinformationen kannst du dir unsere Rohstoffportraits anschauen. Viel Spaß beim Nachmachen!
 

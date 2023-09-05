@@ -19,7 +19,7 @@ cascade:
 
 {{< lead >}}
 
-Hey du! Schön, dass du hier bist! Hier kannst du mehr über uns lesen.
+Wir machen vegane Kosmetik und Kerzen ohne mineralische Zusatzstoffe
 
 {{< /lead >}}
 

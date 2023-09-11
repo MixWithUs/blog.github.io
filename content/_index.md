@@ -19,5 +19,14 @@ tags: ["cosmetics", "candles", "soaps", "Kosmetik", "Kerzen", "Seifen", "vegan",
 
 **Verstehen. Mixen. Staunen.**
 
-Willkommen zu unserem digitalen Zuhause. Hier kannst du mehr über 
-[uns]({{<ref "about/about-us" >}}) lesen.
+
+{{< lead >}}
+
+ {{< statement>}}
+
+ Hier kannst du mehr über [uns]({{<ref "about" >}}) lesen.
+
+{{< /lead >}}
+
+
+

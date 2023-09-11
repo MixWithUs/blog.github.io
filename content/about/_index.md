@@ -19,7 +19,10 @@ cascade:
 
 {{< lead >}}
 
-Wir machen vegane Kosmetik und Kerzen ohne mineralische Zusatzstoffe
+Bei MixWithUs folgen wir klaren Prinzipien:
+Alle verwendeten Rohstoffe sind zu 100%
+vegan, besitzen einen minimalen
+ökologischen Fußabdruck und sind biologisch abbaubar.
 
 {{< /lead >}}
 

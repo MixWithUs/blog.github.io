@@ -19,7 +19,10 @@ cascade:
 
 {{< lead >}}
 
-Hey du! Schön, dass du hier bist! Hier kannst du mehr über uns lesen.
+Bei MixWithUs folgen wir klaren Prinzipien:
+Alle verwendeten Rohstoffe sind zu 100%
+vegan, besitzen einen minimalen
+ökologischen Fußabdruck und sind biologisch abbaubar.
 
 {{< /lead >}}
 

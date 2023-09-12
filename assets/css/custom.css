@@ -30,3 +30,7 @@
     font-size: large;
     float: right;
 }
+
+article.max-w-full {
+    max-width: 65ch !important;
+}

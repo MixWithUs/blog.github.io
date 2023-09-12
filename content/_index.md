@@ -17,16 +17,14 @@ tags: ["cosmetics", "candles", "soaps", "Kosmetik", "Kerzen", "Seifen", "vegan",
 
 {{< figure src="3_erlenmeyer_flasks_with_violet.jpg" class="m-auto mt-6 max-w-prose" >}}
 
-**Verstehen. Mixen. Staunen.**
-
-
 {{< lead >}}
 
- {{< statement>}}
+ {{< statement >}}
 
  Hier kannst du mehr über [uns]({{<ref "about" >}}) lesen.
 
 {{< /lead >}}
 
+---
 
 

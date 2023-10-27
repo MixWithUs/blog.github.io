@@ -4,6 +4,11 @@
     padding-right: 10px;
 }
 
+.image-container img {
+    max-width: 100%;
+    float: center;
+}
+
 .text-image-floating {
     max-width: 30%;
     display: block;

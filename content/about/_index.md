@@ -14,8 +14,8 @@ cascade:
   invertPagination: false
 ---
 
+![plantsinlab](../plantsinlab.png)
 
-![ErlenMeyerFlasks](../3_erlenmeyer_flasks_with_violet.png)
 
 {{< lead >}}
 

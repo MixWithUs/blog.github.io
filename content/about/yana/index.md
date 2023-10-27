@@ -1,12 +1,12 @@
 ---
 title: "Über Yana"
-date: 2023-04-14
+date: 2023-04-15
 draft: false
 description: "Lerne Yana kennen — eine ehemalige Bio-Informatikstudentin, die ihre Begeisterung für Chemie und Biologie nie verloren hat. Begleite sie auf ihrer faszinierenden Reise durch die Welt der Kosmetikherstellung und des Kerzengießens und entdecke gemeinsam Lösungen für knifflige Fragestellungen."
 summary: "Lerne Yana kennen — eine ehemalige Bio-Informatikstudentin, die ihre Begeisterung für Chemie und Biologie nie verloren hat. Begleite sie auf ihrer faszinierenden Reise durch die Welt der Kosmetikherstellung und des Kerzengießens und entdecke gemeinsam Lösungen für knifflige Fragestellungen."
 author: "Yana"
 slug: "about-yana"
-tags: ["about us", "Yana"]
+tags: [ "about us", "Yana" ]
 ---
 
 ## Willkommen in die neue bessere Welt
@@ -23,6 +23,12 @@ und Chemie habe ich nie verloren.
 In meiner Freizeit mag ich kochen, essen, malen, gärtnern, schlafen… All das
 bereitet mir Freunde und wird am liebsten
 in der Reihenfolge durchgeführt.
+
+<div class="image-container">
+
+![yana](yana.jpeg)
+
+</div>
 
 ## Ich dachte ganz lange,
 

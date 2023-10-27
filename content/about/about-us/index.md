@@ -18,6 +18,14 @@ Idee gekommen sind, unseren gemeinsamen Blog anzufangen. Wenn es dir heute nicht
 nach Geplapper ist, dann schau in
 unsere Rezepte und tob dich aus :wink:.
 
+
+<div class="image-container">
+
+![yanaundzlata](yanaundzlata.jpg)
+
+</div>
+
+
 ## Zlata
 
 Seit März 2022 habe ich angefangen, mit einigen Formeln herumzuspielen. Meine
@@ -62,6 +70,8 @@ gespannt sind, wo dieser Weg hinführt
 und wir freuen uns darauf, dir unsere Experimente vorzustellen.
 
 _Mehr zu [Zlata]({{< ref "about/zlata" >}})_
+
+{{< signature_zlata >}}
 
 ## Yana
 
@@ -144,3 +154,8 @@ besonders aufregend ist für mich, dich auf
 diese Entdeckungsreise mitzunehmen!
 
 _Mehr zu [Yana]({{< ref "about/yana" >}})_
+
+<div class="signature-right">
+{{< signature_yana >}}
+</div>
+

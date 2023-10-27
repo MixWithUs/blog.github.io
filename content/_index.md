@@ -15,7 +15,7 @@ herstellen kannst. Inspirierende Tipps, Rezepte und Anleitungen"
 tags: ["cosmetics", "candles", "soaps", "Kosmetik", "Kerzen", "Seifen", "vegan", "kreativ", "Selbstrührer", "mixing", "Rezept"]
 ---
 
-{{< figure src="3_erlenmeyer_flasks_with_violet.jpg" class="m-auto mt-6 max-w-prose" >}}
+{{< figure src="plantsinlab.png" class="m-auto mt-6 max-w-prose" >}}
 
 {{< lead >}}
 

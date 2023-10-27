@@ -1,6 +1,6 @@
 ---
 title: "Über Zlata"
-date: "2023-04-14"
+date: "2023-04-15"
 draft: false
 description: "Tauche ein in die faszinierende Welt der autodidaktischen Kosmetikherstellung und lasse dich von Zlatas inspirierendem Weg zur Herstellung hochwertiger und maßgeschneiderter Produkte begeistern."
 summary: "Tauche ein in die faszinierende Welt der autodidaktischen Kosmetikherstellung und lasse dich von Zlatas inspirierendem Weg zur Herstellung hochwertiger und maßgeschneiderter Produkte begeistern."
@@ -18,6 +18,12 @@ Jahr dazu entschieden, mir das Handwerk
 der Kosmetikherstellung autodidaktisch beizubringen. Heute versuche ich dich auf
 den Geschmack zu bringen, mitzumachen.
 Wo fange ich an?
+
+<div class="image-container">
+
+![zlata](zlata.jpeg)
+
+</div>
 
 ## Das Überangebot überfordert, der stolze Preis schreckt ab
 

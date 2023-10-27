@@ -1,6 +1,6 @@
 ---
 title: "Yanas Marzipan Make Up Remover"
-date: 2023-04-15
+date: 2023-04-16
 draft: false
 description: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Make Up Remover. Entdecke zwei Formeln, Zutatenportraits, Anleitungen und Konservierungstipps."
 summary: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Make Up Remover. Entdecke zwei Formeln, Zutatenportraits, Anleitungen und Konservierungstipps."

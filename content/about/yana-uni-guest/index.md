@@ -51,7 +51,7 @@ meistens um molekulare chemische Reaktionen auf Protein, DNA Ebene oder sogar au
 Kosmetikwissenschaft baut ganz stark auf chemischen und biochemischen Vorgängen im Körper auf und untersucht detailliert
 die Wirkung von Wirkstoffen auf und in der Haut. Hierbei sind unter anderem Stoffgemische, deren Konsistenz und
 der haptische Eindruck wichtig. Die ästhetischen Fragen sind selbstverständlich auch von ganz besonderer
-Bedeutung, schließlich wollen wir nach einer kosmetologischen Behandlung noch schönere aussehen.
+Bedeutung, schließlich wollen wir nach einer kosmetologischen Behandlung noch schöner aussehen.
 
 Abgesehen vom Perspektivenwechsel musste ich feststellen, dass das Lernen mir gar nicht mehr so einfach fällt wie
 früher. Als ich

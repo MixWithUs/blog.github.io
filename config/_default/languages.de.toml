@@ -1,20 +1,19 @@
 languageCode = "de"
 languageName = "German"
-displayName = "DE"
-isoCode = "de"
 weight = 1
-rtl = false
 
 title = "Home"
 #description = "My awesome website"
 #copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
-
 [params]
-    mainSections = ["about", "articles", "recipes"]
+mainSections = ["about", "articles", "recipes"]
+dateFormat = "2 January 2006"
+isoCode = "de"
+displayName = "DE"
+rtl = false
 
-[author]
+[params.author]
 name = "Zlata & Yana"
 image = "img/author.png"
 headline = "Welcome to our mix_with_us blog"

@@ -1,4 +1,8 @@
-theme = "congo"
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+theme = "github.com/jpanther/congo/v2"
 
 baseURL = "https://mixwithus.de"
 defaultContentLanguage = "de"

@@ -18,12 +18,12 @@ tags: ["cosmetics", "candles", "soaps", "Kosmetik", "Kerzen", "Seifen", "vegan",
 {{< figure src="plantsinlab.png" class="m-auto mt-6 max-w-prose" >}}
 
 {{< lead >}}
-
  {{< statement >}}
 
- Hier kannst du mehr über [uns]({{<ref "about" >}}) lesen.
-
+ Hier kannst du mehr über [uns]({{<ref "about" >}}) lesen. 
+ 
 {{< /lead >}}
+
 
 ---
 

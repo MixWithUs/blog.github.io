@@ -7,7 +7,7 @@ mega appetitlich."
 summary: "Begleite Yana beim Herstellen ihrer Törtchenkerze! Die Kerze ist vegan, umweltfreundlich und
 mega appetitlich."
 slug: "candle-for-maren"
-tags: ["dessert-kerze", "geschenk"]
+tags: [ "dessert-kerze", "geschenk", "Kerzen", "candles", "recipe", "Rezepte" ]
 
 thumbnail: thumb.jpg
 ---

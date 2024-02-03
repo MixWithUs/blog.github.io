@@ -11,20 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-    name = "Kosmetik"
-    pageRef = "cosmetics"
-    weight = 10
+    name = "Gedankenwirbel"
+    pageRef = "articles"
+    weight = 20
 
 [[main]]
-    name = "Kerzen"
-    pageRef = "candles"
-    weight = 20
+    name = "Spaßmachervorschriften"
+    pageRef = "recipes"
+    weight = 10
 
 [[main]]
     name = "Über uns"
     pageRef = "about"
-    weight = 30
-
+    weight = 90
 
 [[main]]
     identifier = "search"

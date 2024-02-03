@@ -5,7 +5,7 @@ draft: false
 description: "In diesem Artikel erfährst du, warum qualitativ hochwertige und schadstofffreie Kerzen wichtig sind, selbst wenn du keine eigenen Kerzen herstellen möchtest. Entdecke relevante Informationen über sichere Wachse, Dochtmaterialien und Farbstoffe."
 summary: "In diesem Artikel erfährst du, warum qualitativ hochwertige und schadstofffreie Kerzen wichtig sind, selbst wenn du keine eigenen Kerzen herstellen möchtest. Entdecke relevante Informationen über sichere Wachse, Dochtmaterialien und Farbstoffe."
 slug: "candles"
-tags:  ["theorie"]
+tags:  ["theorie", "candles", "articles"]
 ---
 
 Hallo lieber Mensch,
@@ -301,7 +301,7 @@ kann ich diese Kerze mit einem guten Gewissen verschenken.
 
 Wenn du lesen möchtest, wie ich meine erste Kerze zum Verschenken hergestellt
 habe, schau in den
-[Artikel]({{< ref "candles/malte" >}})
+[Artikel]({{< ref "recipes/malte-kerze" >}})
 rein, in dem ich das Herstellungsverfahren dazu beschreibe.
 
 [Unsere Instagram-Seite für Kerzen](https://instagram.com/mix_with_us_candles).

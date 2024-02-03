@@ -9,7 +9,7 @@ summary: "Erlebe mit Yana ihre allererste selbstgemachte schlichte Kontainerkerz
 Entdeckung verschiedener Techniken möchte sie gerne mit dir teilen. Die Kerze ist vegan, umweltfreundlich und
 erstaunlich einfach herzustellen."
 slug: "candle-for-malte"
-tags: ["container-kerze", "schlicht"]
+tags: ["container-kerze", "schlicht", "Kerzen", "candles", "recipe", "Rezepte"]
 
 thumbnail: malte_kerze_small.jpg
 ---

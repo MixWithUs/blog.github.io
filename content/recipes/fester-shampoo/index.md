@@ -5,7 +5,7 @@ draft: false
 description: "Wie wäre es mit einem selbstgemachten, natürlichen und zart-duftenden Shampoo-Bar? Entdecke in unserem Artikel, wie du dieses faszinierende DIY-Projekt eichfach umsetzen kannst."
 summary: "Wie wäre es mit einem selbstgemachten, natürlichen und zart-duftenden Shampoo-Bar? Entdecke in unserem Artikel, wie du dieses faszinierende DIY-Projekt eichfach umsetzen kannst."
 slug: "festes-shampoo"
-tags: ["shampoo-bar"]
+tags: ["shampoo-bar", "Kosmetik", "cosmetics", "recipes", "Rezepte"]
 
 ---
 

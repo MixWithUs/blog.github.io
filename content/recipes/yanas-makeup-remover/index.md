@@ -5,7 +5,7 @@ draft: false
 description: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Make Up Remover. Entdecke zwei Formeln, Zutatenportraits, Anleitungen und Konservierungstipps."
 summary: "Starte deine Kosmetikherstellung mit unserem natürlichen, veganen Make Up Remover. Entdecke zwei Formeln, Zutatenportraits, Anleitungen und Konservierungstipps."
 slug: "marzipan-makeup-remover"
-tags: ["make-up-remover", "butter"]
+tags: ["make-up-remover", "butter", "Kosmetik", "cosmetics", "recipes", "Rezepte"]
 
 ---
 

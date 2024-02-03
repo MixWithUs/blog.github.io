@@ -16,12 +16,12 @@
     weight = 20
 
 [[main]]
-    name = "Spaßmachervorschriften"
+    name = "Formelkreationen"
     pageRef = "recipes"
     weight = 10
 
 [[main]]
-    name = "Über uns"
+    name = "Unsere Geschichte"
     pageRef = "about"
     weight = 90
 

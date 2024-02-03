@@ -8,7 +8,7 @@ summary: "Erfahre wie Yana einen Perspektivenwechsel erlebt und warum das faszin
 alles andere als ein lockerer Spaziergang ist."
 author: "Yana"
 slug: "about-yana-uni-guest"
-tags: [ "about us", "Yana", "Kosmetikwissenschaft" ]
+tags: [ "about us", "Yana", "Kosmetikwissenschaft", "articles" ]
 ---
 
 Hallo lieber Mensch,

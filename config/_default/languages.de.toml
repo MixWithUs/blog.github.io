@@ -12,7 +12,7 @@ title = "Home"
 dateFormat = "2 January 2006"
 
 [params]
-    mainSections = ["about", "cosmetics", "candles"]
+    mainSections = ["about", "articles", "recipes"]
 
 [author]
 name = "Zlata & Yana"
